@@ -1,0 +1,157 @@
+{
+   "agent": "Firefox/52.0-20100101",
+   "behavior": "FAILED",
+   "behaviorClose": "FAILED",
+   "case": 9,
+   "closedByMe": true,
+   "createStats": true,
+   "createWirelog": true,
+   "description": "Send text message message with non-minimal-encoded payload length ",
+   "droppedByMe": true,
+   "duration": 1004,
+   "expectation": "Client must close and should do with status code of CLOSE_STATUS_CODE_PROTOCOL_ERROR ",
+   "expected": [],
+   "expectedClose": {
+      "closeCode": [
+         1002
+      ],
+      "closedByMe": false,
+      "requireClean": false
+   },
+   "failedByMe": true,
+   "httpRequest": "GET /runCase?case=9&agent=Firefox/52.0-20100101 HTTP/1.1\r\nHost: 10.0.0.200:9001\r\nUser-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nSec-WebSocket-Version: 13\r\nOrigin: http://10.0.0.200:8080\r\nSec-WebSocket-Extensions: permessage-deflate\r\nSec-WebSocket-Key: BUg3qmOWQNzHAa6Nuz3u1g==\r\nConnection: keep-alive, Upgrade\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nUpgrade: websocket\r\n\r\n",
+   "httpResponse": "HTTP/1.1 101 Switching Protocols\r\nServer: AutobahnTestSuite/0.7.5-0.10.9\r\nX-Powered-By: AutobahnPython/0.10.9\r\nUpgrade: WebSocket\r\nConnection: Upgrade\r\nSec-WebSocket-Accept: F99nuB0obil7H6uG0DPNH/klsNw=\r\n\r\n",
+   "id": "1.1.9",
+   "isServer": true,
+   "localCloseCode": 1001,
+   "localCloseReason": "Going Away",
+   "received": [
+      [
+         "message",
+         "**************************************************************** ...",
+         false
+      ]
+   ],
+   "remoteCloseCode": 1001,
+   "remoteCloseReason": "Going Away",
+   "reportCompressionRatio": false,
+   "reportTime": false,
+   "result": "Actual events differ from any expected.",
+   "resultClose": "The connection was failed by the wrong endpoint",
+   "rxFrameStats": {
+      "1": 1,
+      "8": 1
+   },
+   "rxOctetStats": {
+      "18": 1,
+      "557": 1,
+      "698": 1
+   },
+   "started": "2017-03-27T17:38:03.034Z",
+   "trafficStats": null,
+   "txFrameStats": {
+      "8": 1
+   },
+   "txOctetStats": {
+      "14": 1,
+      "206": 1,
+      "700": 1
+   },
+   "wasClean": true,
+   "wasCloseHandshakeTimeout": false,
+   "wasNotCleanReason": null,
+   "wasOpenHandshakeTimeout": false,
+   "wasServerConnectionDropTimeout": false,
+   "wirelog": [
+      [
+         "RO",
+         [
+            557,
+            "474554202f72756e436173653f636173653d39266167656e743d46697265666f782f35322e302d323031303031303120485454502f312e310d0a486f73743a20 ..."
+         ]
+      ],
+      [
+         "TO",
+         [
+            206,
+            "485454502f312e312031303120537769746368696e672050726f746f636f6c730d0a5365727665723a204175746f6261686e5465737453756974652f302e372e ..."
+         ],
+         false
+      ],
+      [
+         "TO",
+         [
+            700,
+            "817f00000000000002b22a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a2a ..."
+         ],
+         true
+      ],
+      [
+         "KL",
+         1
+      ],
+      [
+         "RO",
+         [
+            698,
+            "81fe02b2ad685c3d8742761787427617874276178742761787427617874276178742761787427617874276178742761787427617874276178742761787427617 ..."
+         ]
+      ],
+      [
+         "RF",
+         [
+            690,
+            "**************************************************************** ..."
+         ],
+         1,
+         true,
+         0,
+         true,
+         "ad685c3d"
+      ],
+      [
+         "KLE"
+      ],
+      [
+         "TF",
+         [
+            12,
+            "0x03e9476f696e672041776179"
+         ],
+         8,
+         true,
+         0,
+         null,
+         null,
+         null,
+         false
+      ],
+      [
+         "TO",
+         [
+            14,
+            "880c03e9476f696e672041776179"
+         ],
+         false
+      ],
+      [
+         "RO",
+         [
+            18,
+            "888c1bcda3c31824e4ac72a3c4e35abac2ba"
+         ]
+      ],
+      [
+         "RF",
+         [
+            12,
+            "0x03e9476f696e672041776179"
+         ],
+         8,
+         true,
+         0,
+         true,
+         "1bcda3c3"
+      ]
+   ]
+}

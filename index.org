@@ -15,3 +15,9 @@
 
 *** firefox patch
     - Firefox
+
+*** test result
+    - [[experiment/websocket/ws-server-minimal-payload-test-v1.3/reports/clients/index.html][test result]]
+
+* link test
+  - [[experiment/websocket/ws-server-minimal-payload-test-v1.3/reports/clients/index.html][test result]]
