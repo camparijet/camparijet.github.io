@@ -1,0 +1,4 @@
+#+TITLE: CAMPARI-JET
+* WebSocket
+** minimal payload length
+   After cretaing custom websocket server, I found firefox doesn't follow some of [[https://tools.ietf.org/html/rfc6455][RFC6455 Spec]].
