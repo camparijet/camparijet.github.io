@@ -2,6 +2,10 @@
 #+EXCLUDE_TAGS: private draft
 #+OPTIONS: author:nil creator:nil num:nil toc:nil todo:nil ^:nil timestamp:nil
 
+* Profile
+  - blogger: https://iam-gevanni.blogspot.de/
+  - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
+
 * WebSocket
 ** minimal payload length
    After cretaing custom websocket server, I found firefox doesn't follow some of [[https://tools.ietf.org/html/rfc6455][RFC6455 Spec]].
