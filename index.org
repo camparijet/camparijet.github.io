@@ -5,19 +5,3 @@
 * Profile
   - blogger: https://iam-gevanni.blogspot.de/
   - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
-
-* WebSocket								      :draft:
-** minimal payload length
-   After cretaing custom websocket server, I found firefox doesn't follow some of [[https://tools.ietf.org/html/rfc6455][RFC6455 Spec]].
-
-*** test cases
-    - Autobahn | Testsuites (by Crossbar.io)
-
-*** firefox patch
-    - Firefox
-
-*** test result
-    - [[file:experiment/websocket/ws-server-minimal-payload-test-v1.3/reports/clients/index.html][test result]]
-
-* hyper link test
-  - [[file:experiment/websocket/ws-server-minimal-payload-test-v1.3/reports/clients/index.html][test result]]
