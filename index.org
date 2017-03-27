@@ -1,4 +1,7 @@
 #+TITLE: CAMPARI-JET
+#+EXCLUDE_TAGS: private draft
+#+OPTIONS: author:nil creator:nil num:nil toc:nil todo:nil ^:nil timestamp:nil
+
 * WebSocket
 ** minimal payload length
    After cretaing custom websocket server, I found firefox doesn't follow some of [[https://tools.ietf.org/html/rfc6455][RFC6455 Spec]].
