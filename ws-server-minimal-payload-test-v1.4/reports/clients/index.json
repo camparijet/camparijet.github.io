@@ -1,0 +1,847 @@
+{
+   "Chrome/56.0.2924.87(android)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 72,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 14,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 13,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 13,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 64,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 51,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 44,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 3,
+         "remoteCloseCode": 1002,
+         "reportfile": "chrome_56_0_2924_87_android_case_1_1_9.json"
+      }
+   },
+   "Chrome/57.0.2987.110": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 4,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 4,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 10,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 11,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 23,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 16,
+         "remoteCloseCode": 1000,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 1,
+         "remoteCloseCode": 1002,
+         "reportfile": "chrome_57_0_2987_110_case_1_1_9.json"
+      }
+   },
+   "Firefox/51.0-20100101(32bit)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 9,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 10,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 11,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 10,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 34,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 31,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 42,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "FAILED",
+         "behaviorClose": "FAILED",
+         "duration": 1005,
+         "remoteCloseCode": 1001,
+         "reportfile": "firefox_51_0_20100101_32bit_case_1_1_9.json"
+      }
+   },
+   "Firefox/52.0-20100101(64bit)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 22,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 7,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 7,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 22,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 24,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 50,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "FAILED",
+         "behaviorClose": "FAILED",
+         "duration": 1004,
+         "remoteCloseCode": 1001,
+         "reportfile": "firefox_52_0_20100101_64bit_case_1_1_9.json"
+      }
+   },
+   "Firefox/52.0-20100101(OSX)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 21,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 13,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 14,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 17,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 48,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 33,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 31,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "FAILED",
+         "behaviorClose": "FAILED",
+         "duration": 1060,
+         "remoteCloseCode": 1001,
+         "reportfile": "firefox_52_0_20100101_osx_case_1_1_9.json"
+      }
+   },
+   "Firefox/52.0-20100101(linux64)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 15,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 21,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 19,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 21,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "FAILED",
+         "behaviorClose": "FAILED",
+         "duration": 1004,
+         "remoteCloseCode": 1001,
+         "reportfile": "firefox_52_0_20100101_linux64_case_1_1_9.json"
+      }
+   },
+   "Firefox/55.0-20100101(nightly)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 11,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 9,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 5,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 14,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 16,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 18,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "FAILED",
+         "behaviorClose": "FAILED",
+         "duration": 1006,
+         "remoteCloseCode": 1001,
+         "reportfile": "firefox_55_0_20100101_nightly_case_1_1_9.json"
+      }
+   },
+   "Firefox/55.0-20100101(patched)": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 18,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 18,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 18,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 9,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": 1000,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "WRONG CODE",
+         "duration": 1,
+         "remoteCloseCode": null,
+         "reportfile": "firefox_55_0_20100101_patched_case_1_1_9.json"
+      }
+   },
+   "IE Edge/14.14383": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 5,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 371,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 366,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 396,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "WRONG CODE",
+         "duration": 3,
+         "remoteCloseCode": null,
+         "reportfile": "ie_edge_14_14383_case_1_1_9.json"
+      }
+   },
+   "Safari/602.1": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 15,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 13,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 12,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 46,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 45,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 52,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "WRONG CODE",
+         "duration": 6,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_1_case_1_1_9.json"
+      }
+   },
+   "Safari/602.3.12": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 11,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 5,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 4,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 5,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 33,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 40,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 48,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "WRONG CODE",
+         "duration": 3,
+         "remoteCloseCode": null,
+         "reportfile": "safari_602_3_12_case_1_1_9.json"
+      }
+   },
+   "Win7 IE 11.0.9600": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 5,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 6,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 7,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 25,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 24,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 23,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "WRONG CODE",
+         "duration": 1,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie_11_0_9600_case_1_1_9.json"
+      }
+   },
+   "Win7 IE11.0.9600": {
+      "1.1.1": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 10,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_1.json"
+      },
+      "1.1.2": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 8,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_2.json"
+      },
+      "1.1.3": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 13,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_3.json"
+      },
+      "1.1.4": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 10,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_4.json"
+      },
+      "1.1.5": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 9,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_5.json"
+      },
+      "1.1.6": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 40,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_6.json"
+      },
+      "1.1.7": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 38,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_7.json"
+      },
+      "1.1.8": {
+         "behavior": "OK",
+         "behaviorClose": "OK",
+         "duration": 50,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_8.json"
+      },
+      "1.1.9": {
+         "behavior": "OK",
+         "behaviorClose": "WRONG CODE",
+         "duration": 3,
+         "remoteCloseCode": null,
+         "reportfile": "win7_ie11_0_9600_case_1_1_9.json"
+      }
+   }
+}
