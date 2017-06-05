@@ -1,20 +1,26 @@
-#+TITLE: CAMPARI-JET
+#+TITLE: Hideki Takeoka (aka. camparijet)
 #+EXCLUDE_TAGS: private draft
-#+OPTIONS: author:nil creator:nil num:nil toc:nil todo:nil ^:nil timestamp:nil
+#+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil
+
+#+BEGIN_HTML
+<!--header-->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+<link rel="stylesheet" href="root.css">
+#+END_HTML
 
 * Profile
   - Github: https://github.com/
   - blogger: https://iam-gevanni.blogspot.de/
   - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
 
-* Job
-** Head of Firmware Development
+* Job History
+** Panono GmbH: Head of Firmware Development
    - date: <2014-05-01 Thu>--(now)
    - company: Panono GmbH
    - mission: produce best quality 360 photo camera in the world (and free users from annoying manual stitching)
-   - key technology: C/C++, embedded Linux, Websocket, multicast
+   - key technology: C/C++, embedded system, Websocket, multicast
 
-** Junior Data Analyst
+** Recruit Lifestyle Co., Ltd: Junior Data Analyst
    - date: <2013-04-01 Mon>--<2014-04-30 Wed>
    - company: Recruit Lifestyle Co., Ltd
    - mission: optimize matching experience between website visitors and business partners.
@@ -27,12 +33,12 @@
      - project: https://www.ipa.go.jp/about/press/20120124.html
    - mission: ballcam: throwable highspeed multiple camera unit
 
-** Programmer
+** RIKEN: Programmer
    - date: <2010-04-01 Thu>--<2011-10-31 Mon>
    - company: RIKEN
    - mission: create and validate Kuramoto oscillators
 
-** Server monitoring Operator
+** HEARTBEATS Corporation: Server monitoring Operator
    - date: <2006-09-01 Thu>--<2007-09-01 Sat>
    - company: HEARTBEATS Corporation
    - mission: first operation on server troubles

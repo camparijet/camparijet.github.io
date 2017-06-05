@@ -1,0 +1,33 @@
+body {
+    background-color: #FAFAFA;
+    color: #3D3D3D;
+}
+
+.timestamp {
+    color: #888;
+}
+
+
+a {
+    color: #2b7bb9;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:visited {
+    color: #1a4e75;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:hover {
+    color: #0c8ef3;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:active {
+    color: #2ca5ff;
+    text-decoration: none;
+    outline: 0;
+}
