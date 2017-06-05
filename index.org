@@ -6,6 +6,7 @@
 <!--header-->
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 <link rel="stylesheet" href="root.css">
+<a href="/index.pdf"> Download in PDF </a>
 #+END_HTML
 
 * Profile
