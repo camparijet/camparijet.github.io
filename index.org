@@ -9,10 +9,37 @@
 <a href="/index.pdf"> Download in PDF </a>
 #+END_HTML
 
-* Profile
-  - Github: https://github.com/
-  - blogger: https://iam-gevanni.blogspot.de/
-  - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
+* Summary
+  I'm software engineer with robotics and mathematics background. I'm interested in push excellent product / service to the world, whether the key technologies of those products are novel or legacy. I love to work for team and always do my best for the team to go forward, although we are in harder situation. These days I'm really interested in Wireless drivers in Linux / WebAssembly / Zero Knowledge Proof and board games :).
+
+* Skillset and experiences 				       :private:
+  - C/C++ 
+    - output as a product
+      - library
+	- read / write via camera module
+      - embedded application
+	- image processing
+      - network application
+	- original websocket framework for both server/client
+	- multicast program for both server/client
+  - Testing & Quality Control
+    - CI setting ( Jenkins / Gitlab CI )
+    - automation in unit test layer
+    - semi-automation over L3 layer
+  - OS / Server Administration
+    - experiences to build Linux from scratch
+    - typical LAMP server operator
+  - Java
+    - output as a product
+      - Android app ( downloaded by 10K user between 2010-2012 )
+      - Servlet for server applciations
+  - Python / Javascript
+    - output as a product
+      - test framework for websocket product
+  - R
+    - output as a product
+      - linear & non-linear optimization for measuring 3D position of moving objects
+      - basic analysis and machine learning with data in DB
 
 * Job History
 ** Panono GmbH: Head of Firmware Development
@@ -71,4 +98,9 @@
 
 ** The University of Tokyo: Bachelor (Engineering)
    <2006-04-01 Sat>--<2010-03-31 Sat>
+
+* links
+  - Github: https://github.com/
+  - blogger: https://iam-gevanni.blogspot.de/
+  - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
 
