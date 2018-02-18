@@ -2,26 +2,26 @@
 #+EXCLUDE_TAGS: private draft
 #+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <!--header-->
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 <link rel="stylesheet" href="root.css">
 <a href="/index.pdf"> Download in PDF </a>
-#+END_HTML
+#+END_EXPORT
 
 * Summary
   I'm software engineer with robotics and mathematics background. I'm interested in push excellent product / service to the world, whether the key technologies of those products are novel or legacy. I love to work for team and always do my best for the team to go forward, although we are in harder situation. These days I'm really interested in Wireless drivers in Linux / WebAssembly / Zero Knowledge Proof and board games :).
 
-* Skillset and experiences 				       :private:
-  - C/C++ 
+* Skillset and experiences                                     :private:
+  - C/C++
     - output as a product
       - library
-	- read / write via camera module
+        - read / write via camera module
       - embedded application
-	- image processing
+        - image processing
       - network application
-	- original websocket framework for both server/client
-	- multicast program for both server/client
+        - original websocket framework for both server/client
+        - multicast program for both server/client
   - Testing & Quality Control
     - CI setting ( Jenkins / Gitlab CI )
     - automation in unit test layer
@@ -42,9 +42,13 @@
       - basic analysis and machine learning with data in DB
 
 * Job History
+** Smartfrog GmbH: Senior Software Architect
+   - date: <2017-07-12 Wed>--(now)
+   - mission: produce IoT platform through best consumer Surveillance Camera
+
 ** Panono GmbH: Head of Firmware Development
-   - date: <2014-05-01 Thu>--(now)
-   - company: Panono GmbH
+   - date: <2014-05-01 Thu>--<2017-07-01 Sat>
+   - company: [[https://www.panono.com/][Panono GmbH]]
    - mission: produce best quality 360 photo camera in the world (and free users from annoying manual stitching)
    - key technology: C/C++, embedded system, Websocket, multicast
 
