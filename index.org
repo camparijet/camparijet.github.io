@@ -104,7 +104,7 @@
    <2006-04-01 Sat>--<2010-03-31 Sat>
 
 * links
-  - Github: https://github.com/
+  - Github: [[https://github.com/camparijet/]]
   - blogger: https://iam-gevanni.blogspot.de/
   - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
 
