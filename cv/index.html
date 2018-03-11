@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Hideki Takeoka (aka. camparijet)</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="styles/bigblow/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="styles/bigblow/css/bigblow.css"/>
+<link rel="stylesheet" type="text/css" href="styles/bigblow/css/hideshow.css"/>
+<script type="text/javascript" src="styles/bigblow/js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
+<script type="text/javascript" src="styles/bigblow/js/jquery.localscroll-min.js"></script>
+<script type="text/javascript" src="styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript" src="styles/bigblow/js/jquery.zclip.min.js"></script>
+<script type="text/javascript" src="styles/bigblow/js/bigblow.js"></script>
+<script type="text/javascript" src="styles/bigblow/js/hideshow.js"></script>
+<script type="text/javascript" src="styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Hideki Takeoka (aka. camparijet)</h1>
+<!--header-->
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+<link rel="stylesheet" href="root.css">
+<a href="/cv/index.pdf"> Download in PDF </a>
+
+<div id="outline-container-org8b24874" class="outline-2">
+<h2 id="org8b24874">Summary</h2>
+<div class="outline-text-2" id="text-org8b24874">
+<p>
+I'm software engineer with robotics and mathematics background. I'm interested in push excellent product / service to the world, whether the key technologies of those products are novel or legacy. I love to work for team and always do my best for the team to go forward, although we are in harder situation. These days I'm really interested in Wireless drivers in Linux / WebAssembly / Zero Knowledge Proof and board games :).
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge81a558" class="outline-2">
+<h2 id="orge81a558">Job History</h2>
+<div class="outline-text-2" id="text-orge81a558">
+</div><div id="outline-container-org30a4693" class="outline-3">
+<h3 id="org30a4693">Smartfrog GmbH: Senior Software Architect</h3>
+<div class="outline-text-3" id="text-org30a4693">
+<ul class="org-ul">
+<li>date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-12 Wed&gt;</span></span>&#x2013;(now)</li>
+<li>mission: produce IoT platform through best consumer Surveillance Camera</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgd939fd8" class="outline-3">
+<h3 id="orgd939fd8">Panono GmbH: Head of Firmware Development</h3>
+<div class="outline-text-3" id="text-orgd939fd8">
+<ul class="org-ul">
+<li>date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2014-05-01 Thu&gt;&#x2013;&lt;2017-07-01 Sat&gt;</span></span></li>
+<li>company: <a href="https://www.panono.com/">Panono GmbH</a></li>
+<li>mission: produce best quality 360 photo camera in the world (and free users from annoying manual stitching)</li>
+<li>key technology: C/C++, embedded system, Websocket, multicast</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org8ee284d" class="outline-3">
+<h3 id="org8ee284d">Recruit Lifestyle Co., Ltd: Junior Data Analyst</h3>
+<div class="outline-text-3" id="text-org8ee284d">
+<ul class="org-ul">
+<li>date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2013-04-01 Mon&gt;&#x2013;&lt;2014-04-30 Wed&gt;</span></span></li>
+<li>company: Recruit Lifestyle Co., Ltd</li>
+<li>mission: optimize matching experience between website visitors and business partners.</li>
+<li>key technology: recommend engine, Statistics, SQL, R</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgced672d" class="outline-3">
+<h3 id="orgced672d">Exploratory IT Human Resources Project Information technology Promotion Agency ,Japan</h3>
+<div class="outline-text-3" id="text-orgced672d">
+<ul class="org-ul">
+<li>date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2012-12-01 Sat&gt;&#x2013;&lt;2013-09-30 Mon&gt;</span></span></li>
+<li>company: Information technology Promotion Agency ,Japan
+<ul class="org-ul">
+<li>project: <a href="https://www.ipa.go.jp/english/humandev/third.html">https://www.ipa.go.jp/english/humandev/third.html</a></li>
+<li>project: <a href="https://www.ipa.go.jp/about/press/20120124.html">https://www.ipa.go.jp/about/press/20120124.html</a></li>
+</ul></li>
+<li>mission: ballcam: throwable highspeed multiple camera unit</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org6317ce2" class="outline-3">
+<h3 id="org6317ce2">RIKEN: Programmer</h3>
+<div class="outline-text-3" id="text-org6317ce2">
+<ul class="org-ul">
+<li>date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2010-04-01 Thu&gt;&#x2013;&lt;2011-10-31 Mon&gt;</span></span></li>
+<li>company: RIKEN</li>
+<li>mission: create and validate Kuramoto oscillators</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc787f01" class="outline-3">
+<h3 id="orgc787f01">HEARTBEATS Corporation: Server monitoring Operator</h3>
+<div class="outline-text-3" id="text-orgc787f01">
+<ul class="org-ul">
+<li>date: <span class="timestamp-wrapper"><span class="timestamp">&lt;2006-09-01 Fri&gt;&#x2013;&lt;2007-09-01 Sat&gt;</span></span></li>
+<li>company: HEARTBEATS Corporation</li>
+<li>mission: first operation on server troubles</li>
+<li>key technology: monitoring agent (i.e. Zabbix/Nagios &#x2026;), Unix/Linux basic skills, build from source/maintenance LAMP environment.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org15dc2ab" class="outline-2">
+<h2 id="org15dc2ab">Contribution</h2>
+<div class="outline-text-2" id="text-org15dc2ab">
+</div><div id="outline-container-orgcb3a31a" class="outline-3">
+<h3 id="orgcb3a31a">Development</h3>
+<div class="outline-text-3" id="text-orgcb3a31a">
+</div><div id="outline-container-org4b86cb5" class="outline-4">
+<h4 id="org4b86cb5">Firefox</h4>
+<div class="outline-text-4" id="text-org4b86cb5">
+<ul class="org-ul">
+<li>Refuse ws messages that don't use minimal encoding
+<ul class="org-ul">
+<li>issue: <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1351948">https://bugzilla.mozilla.org/show_bug.cgi?id=1351948</a></li>
+<li>patch: <a href="https://hg.mozilla.org/mozilla-central/rev/6553dcb0df0c">https://hg.mozilla.org/mozilla-central/rev/6553dcb0df0c</a></li>
+<li>backstage story:</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2ec3987" class="outline-3">
+<h3 id="org2ec3987">Security Report</h3>
+<div class="outline-text-3" id="text-org2ec3987">
+</div><div id="outline-container-org04b9d84" class="outline-4">
+<h4 id="org04b9d84">Malcious ad via ad network</h4>
+<div class="outline-text-4" id="text-org04b9d84">
+<ul class="org-ul">
+<li>report: <a href="https://iam-gevanni.blogspot.de/2017/03/how-advertisement-hijack-ads-owners.html">https://iam-gevanni.blogspot.de/2017/03/how-advertisement-hijack-ads-owners.html</a></li>
+<li>update by Mathtag: <a href="https://iam-gevanni.blogspot.de/2017/03/malcious-ad-is-now-removed-by-media-math.html">https://iam-gevanni.blogspot.de/2017/03/malcious-ad-is-now-removed-by-media-math.html</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgfc7aab9" class="outline-2">
+<h2 id="orgfc7aab9">Education</h2>
+<div class="outline-text-2" id="text-orgfc7aab9">
+</div><div id="outline-container-org45fc92b" class="outline-3">
+<h3 id="org45fc92b">The University of Tokyo: Master Degree (Information Technology)</h3>
+<div class="outline-text-3" id="text-org45fc92b">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2010-04-01 Thu&gt;&#x2013;&lt;2012-03-31 Sat&gt;</span></span>
+</p>
+</div>
+
+<div id="outline-container-orgadccc9b" class="outline-4">
+<h4 id="orgadccc9b">highspeed throwable camera system</h4>
+<div class="outline-text-4" id="text-orgadccc9b">
+<ul class="org-ul">
+<li>mission: generate Panorama and 3D point of cloud of surrounding environment within 1 sec</li>
+<li>key technology: image processing, embedded linux, linear- and non-leanier optimization, statistic</li>
+<li>Project Homepage: <a href="http://www.k2.t.u-tokyo.ac.jp/vision/TossCam/index-e.html">http://www.k2.t.u-tokyo.ac.jp/vision/TossCam/index-e.html</a></li>
+<li>Publish: <a href="https://dl.acm.org/citation.cfm?id=2077383">https://dl.acm.org/citation.cfm?id=2077383</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org6250d87" class="outline-3">
+<h3 id="org6250d87">The University of Tokyo: Bachelor (Engineering)</h3>
+<div class="outline-text-3" id="text-org6250d87">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2006-04-01 Sat&gt;&#x2013;&lt;2010-03-31 Wed&gt;</span></span>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3cbed3c" class="outline-2">
+<h2 id="org3cbed3c">links</h2>
+<div class="outline-text-2" id="text-org3cbed3c">
+<ul class="org-ul">
+<li>Github: <a href="https://github.com/camparijet/">https://github.com/camparijet/</a></li>
+<li>blogger: <a href="https://iam-gevanni.blogspot.de/">https://iam-gevanni.blogspot.de/</a></li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/hideki-takeoka-40435031/">https://www.linkedin.com/in/hideki-takeoka-40435031/</a></li>
+</ul>
+</div>
+</div>
+</div>
+</body>
+</html>
