@@ -1,20 +1,13 @@
 #+TITLE: Hideki Takeoka (aka. camparijet)
 #+EXCLUDE_TAGS: private draft
-#+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil
-
+#+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil toc:t
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/readtheorg.css"/>
+#+HTML_HEAD: <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 #+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 #+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
-
-#+BEGIN_EXPORT html
-<!--header-->
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-<link rel="stylesheet" href="root.css">
-<a href="/cv/index.pdf"> Download in PDF </a>
-#+END_EXPORT
 
 * Summary
   I'm software engineer with robotics and mathematics background. I'm interested in push excellent product / service to the world, whether the key technologies of those products are novel or legacy. I love to work for team and always do my best for the team to go forward, although we are in harder situation. These days I'm really interested in Wireless drivers in Linux / WebAssembly / Zero Knowledge Proof and board games :).
@@ -115,3 +108,5 @@
   - blogger: https://iam-gevanni.blogspot.de/
   - Linkedin: https://www.linkedin.com/in/hideki-takeoka-40435031/
 
+
+[[http://camparijet.github.io/cv/index.pdf][Download in PDF]]
