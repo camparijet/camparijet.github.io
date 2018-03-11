@@ -1,12 +1,13 @@
 #+TITLE: Camparijet
 
+#+EXCLUDE_TAGS: private draft
+#+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil
+
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/bigblow/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/bigblow/css/bigblow.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/bigblow/css/hideshow.css"/>
-
 #+HTML_HEAD: <script type="text/javascript" src="/styles/bigblow/js/jquery-1.11.0.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/bigblow/js/jquery-ui-1.10.2.min.js"></script>
-
 #+HTML_HEAD: <script type="text/javascript" src="/styles/bigblow/js/jquery.localscroll-min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/bigblow/js/jquery.scrollTo-1.4.3.1-min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/bigblow/js/jquery.zclip.min.js"></script>
@@ -15,4 +16,10 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 
 * CV
-  Refer [[cv/index.html]]
+  Refer [[file:cv/index.html][cv/index.html]]
+
+* Dictionary Projetct
+  coming soon.
+
+* Songle Project
+  coming soon.
