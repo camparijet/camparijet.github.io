@@ -20,7 +20,7 @@
 
 ** Test environment
 
-   As a environment we use a water case from PearlCo and this reagent for water hardness.
+   As a environment we use a water case from PearlCo and [[https://www.amazon.de/gp/product/B00MEEWTBS/][this reagent for water hardness]].
 
    Test protocol is as follows :
 

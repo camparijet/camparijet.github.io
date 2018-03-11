@@ -9,9 +9,50 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
 
+* Diary
+  older one is here: [[file:diary/index.html]]
+
+** <2018-03-14 Wed> Job title shows mindset, not position
+   Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.
+
+** <2018-03-11 Sun> Initial test
+   Today is 7-year-anniversary for Fukushima Earthquake.
+   Berlin weather radically changes today, now 16 cel degree. It's crazy because it was -10 cel degree.
+
+   Try to start using https://github.com/fniessen/org-html-themes.
+
+* Experiments
+  - [[file:experiments/index.html][Daily experiments and its result.]]
+
 * CV
   Refer [[file:cv/index.html][cv/index.html]]
 
-* Experiments
-  [[file:experiments/index.html][Daily experiments and its result.]]
+#+BEGIN_EXAMPLE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#+END_EXAMPLE
