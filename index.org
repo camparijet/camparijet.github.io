@@ -12,9 +12,6 @@
 * CV
   Refer [[file:cv/index.html][cv/index.html]]
 
-* Dictionary Projetct
-  coming soon.
-
-* Songle Project
-  coming soon.
+* Experiments
+  [[file:experiments/index.html][Daily experiments and its result.]]
 

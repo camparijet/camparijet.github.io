@@ -1,0 +1,66 @@
+#+TITLE: Experiments
+
+#+EXCLUDE_TAGS: private draft
+#+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil toc:t
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/readtheorg.css"/>
+#+HTML_HEAD: <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+#+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
+
+
+* Water hardness test
+** Overview
+   I tested with the following product of water filter, comparing to Tube water (control group).
+
+   - BRITA Classic type
+   - PearlCo
+
+** Test environment
+
+   As a environment we use a water case from PearlCo and this reagent for water hardness.
+
+   Test protocol is as follows :
+
+   - Repeat followings for each group
+     + Fill out test tube with filtered water to 5 [ml] mark
+     + Add titration solution drop by drop the while swirling test tube
+     + Count drops until color changes from RED to GREEN
+   - Since 1 drop of reagent express 1 degree dH (see the [[https://en.wikipedia.org/wiki/Hard_water#Measurement][measurement]]), calculate each hardness.
+
+** Result
+
+   The following result shows color and water types.
+
+   | Drop count | Tube water              | BRITA                   | PearlCo                 |
+   |------------+-------------------------+-------------------------+-------------------------|
+   |          0 | [[file:images/image7.jpg]]  | [[file:images/image21.jpg]] | [[file:images/image10.jpg]] |
+   |          1 | SKIP                    | [[file:images/image24.jpg]] | [[file:images/image14.jpg]] |
+   |          2 | [[file:images/image3.jpg]]  | [[file:images/image1.jpg]]  | [[file:images/image5.jpg]]  |
+   |          3 | SKIP                    | [[file:images/image17.jpg]] | [[file:images/image6.jpg]]  |
+   |          4 | [[file:images/image8.jpg]]  | [[file:images/image20.jpg]] | [[file:images/image19.jpg]] |
+   |          5 | SKIP                    | [[file:images/image12.jpg]] |                         |
+   |          6 | [[file:images/image22.jpg]] | [[file:images/image4.jpg]]  |                         |
+   |          7 | SKIP                    | [[file:images/image15.jpg]] |                         |
+   |          8 | SKIP                    | [[file:images/image16.jpg]] |                         |
+   |          9 | [[file:images/image23.jpg]] |                         |                         |
+   |         10 | [[file:images/image13.jpg]] |                         |                         |
+   |         11 | [[file:images/image9.jpg]]  |                         |                         |
+   |         12 | [[file:images/image18.jpg]] |                         |                         |
+   |         13 | [[file:images/image11.jpg]] |                         |                         |
+   |         14 | [[file:images/image2.jpg]]  |                         |                         |
+
+   The result shows Tube water is 14, BRITA is 8 and PealCo is 4.
+   According to [[https://en.wikipedia.org/wiki/Hard_water#Hard/soft_classification][this Hard-soft classification table]], each shows “Very hard”, “Hard” and “Moderately hard”.
+
+
+** Conclusioin
+   Since I use water from the same environment, I should use PearlCo as long as I want to avoid drinking hard water.
+
+   I cannot rule out the following possibility just by this trial:
+   It's combination of a filter and water pot that decides effect of water filtering.
+
+   Given we express (water pot, water filter), we can show the result as (PearlCo, PearlCo) > (PearlCo, BRITA).
+   But it's not clear at all whether (BRITA, BRITA) > (PearlCo, PearlCo), or vice versa.
