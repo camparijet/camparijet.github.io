@@ -12,13 +12,17 @@
 * Diary
   older one is here: [[file:diary/index.html]]
 
-** <2018-03-14 Wed>
-*** Job title shows mindset, not position
-    Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.
+** Job title shows mindset, not position                          :tech:
+   [2018-03-14 Wed]
 
-** <2018-03-11 Sun>
-*** Initial test
-    Today is 7-year-anniversary for Fukushima Earthquake.
+   Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.
+
+
+
+** Initial test                                              :emacs:org:
+   [2018-03-11 Sun]
+
+   Today is 7-year-anniversary for Fukushima Earthquake.
     Berlin weather radically changes today, now 16 cel degree. It's crazy because it was -10 cel degree.
 
     Try to start using https://github.com/fniessen/org-html-themes.
@@ -28,33 +32,4 @@
 
 * CV
   Refer [[file:cv/index.html][cv/index.html]]
-
-#+BEGIN_EXAMPLE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#+END_EXAMPLE
+  Refer [[file:cv/index.org][cv/index.org]]
