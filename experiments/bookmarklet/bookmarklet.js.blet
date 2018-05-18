@@ -1,0 +1,1 @@
+javascript:(function(){var a=document.createElement("script"),b=["test",document.title],c={};a.onload=function(){"function"==typeof special_func&&special_func.apply(c,b)};a.setAttribute("src","https://camparijet.github.io/experiments/bookmarklet/io.github.camparijet.js");document.body.appendChild(a)})();
