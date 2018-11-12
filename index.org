@@ -10,11 +10,10 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorgv/js/readtheorg.js"></script>
 
 * [[file:diary/index.html][Diary]]
-
 ** How to prepare Parent's birth proof (Familienbuch)
 
 *** When Your family in your original country can help
-   #+BEGIN_SRC plantuml :file en_sequence_with_family.png
+   #+BEGIN_SRC plantuml :file images/en_sequence_with_family.png
      box "Original Country"
      participant Family
      participant "Administrative(Origin Country)" as origin
@@ -41,8 +40,11 @@
      You->living: submit applications with Familienbuch of Familienbuch
    #+END_SRC
 
+   #+RESULTS:
+   [[file:images/en_sequence_with_family.png]]
+
 *** When You do by yourself
-   #+BEGIN_SRC plantuml :file en_sequence_self.png
+   #+BEGIN_SRC plantuml :file images/en_sequence_self.png
      box "Original Country"
      participant "Administrative(Origin Country)" as origin
      end box
@@ -65,61 +67,8 @@
      You->living: submit applications with Familienbuch of Familienbuch
    #+END_SRC
 
-
-** 戸籍謄本を取得して両親の出生証明書を作る手続き
-
-*** 日本の親族に手伝ってもらえる場合
-   #+BEGIN_SRC plantuml :file ja_sequence_with_family.png
-     box "日本"
-     participant "親族" as Family
-     participant "市役所" as origin
-     end box
-
-     box "居住国"
-     participant "あなた" as You
-     participant "日本大使館" as Embassy
-     participant "Administrative(Living Country)" as living
-     end box
-
-     You->Family: 戸籍謄本発行の手続きを依頼
-     note over You: 1 週間待つ
-     Family->origin: 戸籍謄本発行手続き
-     origin->Family: 戸籍謄本を受け取る
-     Family->You: 戸籍謄本を郵送
-
-     You->Embassy: 戸籍謄本の翻訳を依頼
-     note over Embassy: 3 日間待つ
-     Embassy->You: 出生証明書(Familienbuch)発行
-
-     == 赤ちゃん爆誕 ==
-
-     You->living: Stadtamtに親の出生証明書を含めて出生登録手続き
-   #+END_SRC
-
-*** 自分でやる場合
-   #+BEGIN_SRC plantuml :file ja_sequence_self.png
-     box "日本"
-     participant "市役所" as origin
-     end box
-
-     box "居住国"
-     participant "あなた" as You
-     participant "日本大使館" as Embassy
-     participant "Administrative(Living Country)" as living
-     end box
-
-     You->origin: 戸籍謄本発行手続き
-     note over You: 2weeks
-     origin->You: 戸籍謄本を郵送
-
-     note over Embassy: 3 日間待つ
-     Embassy->You: 出生証明書(Familienbuch)発行
-
-     == 赤ちゃん爆誕 ==
-
-     You->living: Stadtamtに親の出生証明書を含めて出生登録手続き
-   #+END_SRC
-
+   #+RESULTS:
+   [[file:images/en_sequence_self.png]]
 
 ** test article                                                  :draft:
 
