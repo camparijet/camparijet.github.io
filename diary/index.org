@@ -50,4 +50,3 @@
 
   #+RESULTS:
   [[file:images/pthread_design.png]]
-
