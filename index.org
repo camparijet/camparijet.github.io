@@ -47,11 +47,11 @@
       origin->Family: publish Family Registration
       Family->You: send back Family Registration
       == Passport ==
-      You->Embassy: request Passport with (Application, Family Registrattion, Photo)
+      You->Embassy: request Passport with (Application, Family Registration, Photo)
       note over Embassy: 4 days
       Embassy->You: Passport
       == Citizen Registration ==
-      You->living: request Citizen Registration with Passport
+      You->living: request Citizen Registration with Passports
       note over living: 0 days (within a day)
       living->You: Citizen Registration
       == Residence Permission ==

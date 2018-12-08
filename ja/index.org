@@ -9,6 +9,63 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorgv/js/readtheorg.js"></script>
 
+* ドイツで日本人同士の両親から子供が生まれた場合の諸手続き
+
+  例えば下記の公共サービスを受けるには子供のSteuer Identificationnummerが必要となります。
+
+   - Kindergeld
+   - Elterngeld
+   - KITA Guteschein
+
+   取得するまでに必要な手続きをまとめてみました。
+
+   とりあえず戸籍反映までに２ヶ月かかるのわろた
+
+   #+BEGIN_SRC plantuml :file images/ja_sequence_baby_authorization.png
+      box "日本"
+      participant "親族" as Family
+      participant "市役所" as origin
+      end box
+
+      box "居住国"
+      participant "あなた" as You
+      participant "日本大使館" as Embassy
+      participant "Administrative(Living Country)" as living
+      end box
+
+      note over You: "赤ちゃん爆誕"
+      You->living: "request Geburtsurkunde"
+      living->You: "Geburtsurkunde"
+      You->Embassy: "request 出生届 with (Application, Geburtsurkunde, Translated Geburtsurkunde)"
+      note over You: "2 Months"
+      Embassy->You: "出生届＋戸籍への出生届反映完了"
+      == 戸籍謄本 ==
+      You->Family: ask to fetch your 戸籍謄本
+      note over You: 1 week
+      Family->origin: request of 戸籍謄本
+      origin->Family: publish 戸籍謄本
+      Family->You: send back 戸籍謄本
+      == Passport ==
+      You->Embassy: request Passport with (Application, 戸籍謄本, 写真)
+      note over Embassy: 4 days
+      Embassy->You: Passport
+      == Citizen Registration ==
+      You->living: request Citizen Registration with Passport
+      note over living: 0 days (within a day)
+      living->You: Citizen Registration
+      == Residence Permission ==
+      You->living: request Residence Permission with Passport and Citizen Registration
+      note over living: 2 weeks
+      living->You: Residence Permission and Identification number
+   #+END_SRC
+   #+RESULTS:
+   [[file:images/ja_sequence_baby_authorization.png]]
+
+   Questions are:
+   - Do we need official translator of Geburtsurkunde for Birth Certificate?
+   - Don't we have any easier way to finish Baby's Citizen Registration without Passport?
+
+
 * 戸籍謄本を取得して両親の出生証明書を作る手続き                  :baby:
 
 ** 日本の親族に手伝ってもらえる場合
