@@ -209,21 +209,10 @@ Try to start using <a href="https://github.com/fniessen/org-html-themes">https:/
 </li>
 </ul>
 
-<div class="org-src-container">
 
-<pre class="src src-plantuml">core-&gt;watcher: assign job
-watcher-&gt;worker: create thread for worker and dispatch job
-watcher-&gt;watcher: monitor worker
-alt job finishes
-worker-&gt;worker: finish job
-watcher-&gt;worker: detect job finish
-else job timeout
-note over worker: (still doing job)
-watcher-&gt;worker: kill worker process
-end
-watcher-&gt;worker: join
-watcher-&gt;watcher: finish monitoring
-</pre>
+<div class="figure">
+<p><img src="images/pthread_design.png" alt="pthread_design.png" />
+</p>
 </div>
 </div>
 </div>
