@@ -3,9 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<title>Camparijet</title>
+<title>Tagging system</title>
+<!-- 2018-12-08 Sat 22:06 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
+<meta  name="author" content="takeoka" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center; }
@@ -86,13 +88,6 @@
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/readtheorg.css"/>
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
-<script type="text/javascript" src="/styles/readtheorgv/js/readtheorg.js"></script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -142,90 +137,108 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Camparijet</h1>
+<h1 class="title">Tagging system</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">戸籍謄本を取得して両親の出生証明書を作る手続き&#xa0;&#xa0;&#xa0;<span class="tag"><span class="baby">baby</span></span></a>
+<li><a href="#sec-1">1. rtags</a>
 <ul>
-<li><a href="#sec-1-1">日本の親族に手伝ってもらえる場合</a></li>
-<li><a href="#sec-1-2">自分でやる場合</a></li>
+<li><a href="#sec-1-1">1.1. install</a></li>
 </ul>
 </li>
+<li><a href="#sec-2">2. ctags</a></li>
 </ul>
 </div>
 </div>
-
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">戸籍謄本を取得して両親の出生証明書を作る手続き&#xa0;&#xa0;&#xa0;<span class="tag"><span class="baby">baby</span></span></h2>
+<h2 id="sec-1"><span class="section-number-2">1</span> rtags</h2>
 <div class="outline-text-2" id="text-1">
-</div><div id="outline-container-sec-1-1" class="outline-3">
-<h3 id="sec-1-1">日本の親族に手伝ってもらえる場合</h3>
+<p>
+ctags doesn't show usage of the variable, easily.
+</p>
+</div>
+
+<div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> install</h3>
 <div class="outline-text-3" id="text-1-1">
+<p>
+<a href="https://github.com/Andersbakken/rtags">https://github.com/Andersbakken/rtags</a>
+</p>
+
 <div class="org-src-container">
 
-<pre class="src src-plantuml">box "日本"
-participant "親族" as Family
-participant "市役所" as origin
-end box
+<pre class="src src-sh">git clone --recursive https://github.com/Andersbakken/rtags.git
+cd rtags
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 .
+make
+</pre>
+</div>
 
-box "居住国"
-participant "あなた" as You
-participant "日本大使館" as Embassy
-participant "Administrative(Living Country)" as living
-end box
+<p>
+The current problem by rtags is that rtags requires me to run cmake and compile at least once.
+</p>
 
-You-&gt;Family: 戸籍謄本発行の手続きを依頼
-note over You: 1 週間待つ
-Family-&gt;origin: 戸籍謄本発行手続き
-origin-&gt;Family: 戸籍謄本を受け取る
-Family-&gt;You: 戸籍謄本を郵送
+<p>
+But once you set daemon in your development PC,  it's quite comfortable to work with.
+</p>
 
-You-&gt;Embassy: 戸籍謄本の翻訳を依頼
-note over Embassy: 3 日間待つ
-Embassy-&gt;You: 出生証明書(Familienbuch)発行
-
-== 赤ちゃん爆誕 ==
-
-You-&gt;living: Stadtamtに親の出生証明書を含めて出生登録手続き
+<pre class="example">
+36 matches in 35 lines for "rtags" in buffer: *Help*
+ 761:C-c r ,         rtags-find-references-at-point
+ 762:C-c r .         rtags-find-symbol-at-point
+ 763:C-c r /         rtags-find-all-references-at-point
+ 764:C-c r ;         rtags-find-file
+ 765:C-c r &lt;         rtags-find-references
+ 766:C-c r &gt;         rtags-find-symbol
+ 767:C-c r A         rtags-find-functions-called-by-this-function
+ 768:C-c r B         rtags-show-rtags-buffer
+ 769:C-c r C         rtags-compile-file
+ 770:C-c r D         rtags-diagnostics
+ 771:C-c r E         rtags-preprocess-file
+ 772:C-c r F         rtags-fixit
+ 773:C-c r G         rtags-guess-function-at-point
+ 774:C-c r I         rtags-imenu
+ 775:C-c r K         rtags-make-member
+ 776:C-c r L         rtags-copy-and-print-current-location
+ 777:C-c r M         rtags-symbol-info
+ 778:C-c r O         rtags-goto-offset
+ 779:C-c r P         rtags-dependency-tree-all
+ 780:C-c r R         rtags-rename-symbol
+ 781:C-c r S         rtags-display-summary
+ 782:C-c r T         rtags-taglist
+ 783:C-c r U         rtags-display-summary-as-message
+ 784:C-c r V         rtags-print-enum-value-at-point
+ 785:C-c r X         rtags-apply-fixit-at-point
+ 786:C-c r Y         rtags-cycle-through-diagnostics
+ 787:C-c r Z         rtags-location-stack-visualize
+ 788:C-c r [         rtags-location-stack-back
+ 789:C-c r ]         rtags-location-stack-forward
+ 790:C-c r a         rtags-print-source-arguments
+ 791:C-c r e         rtags-reparse-file
+ 792:C-c r h         rtags-print-class-hierarchy
+ 793:C-c r l         rtags-list-results
+ 794:C-c r p         rtags-dependency-tree
+ 795:C-c r v         rtags-find-virtuals-at-point
 </pre>
 </div>
 </div>
 </div>
 
-<div id="outline-container-sec-1-2" class="outline-3">
-<h3 id="sec-1-2">自分でやる場合</h3>
-<div class="outline-text-3" id="text-1-2">
-<div class="org-src-container">
-
-<pre class="src src-plantuml">box "日本"
-participant "市役所" as origin
-end box
-
-box "居住国"
-participant "あなた" as You
-participant "日本大使館" as Embassy
-participant "Administrative(Living Country)" as living
-end box
-
-You-&gt;origin: 戸籍謄本発行手続き
-note over You: 2weeks
-origin-&gt;You: 戸籍謄本を郵送
-
-note over Embassy: 3 日間待つ
-Embassy-&gt;You: 出生証明書(Familienbuch)発行
-
-== 赤ちゃん爆誕 ==
-
-You-&gt;living: Stadtamtに親の出生証明書を含めて出生登録手続き
-</pre>
-</div>
-</div>
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> ctags</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+I've quickly checked it doesn't work as I expected.
+Especially, when I tried to change symbol name, it missed some of them.
+</p>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
+<p class="author">Author: takeoka</p>
+<p class="date">Created: 2018-12-08 Sat 22:06</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<title>Camparijet</title>
+<title>Valgrind</title>
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -92,7 +92,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
-<script type="text/javascript" src="/styles/readtheorgv/js/readtheorg.js"></script>
+<script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -142,85 +142,35 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Camparijet</h1>
+<h1 class="title">Valgrind</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">戸籍謄本を取得して両親の出生証明書を作る手続き&#xa0;&#xa0;&#xa0;<span class="tag"><span class="baby">baby</span></span></a>
+<li><a href="#sec-1">Valgrind</a>
 <ul>
-<li><a href="#sec-1-1">日本の親族に手伝ってもらえる場合</a></li>
-<li><a href="#sec-1-2">自分でやる場合</a></li>
+<li><a href="#sec-1-1">try to use valgrind</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
+
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">戸籍謄本を取得して両親の出生証明書を作る手続き&#xa0;&#xa0;&#xa0;<span class="tag"><span class="baby">baby</span></span></h2>
+<h2 id="sec-1">Valgrind</h2>
 <div class="outline-text-2" id="text-1">
 </div><div id="outline-container-sec-1-1" class="outline-3">
-<h3 id="sec-1-1">日本の親族に手伝ってもらえる場合</h3>
+<h3 id="sec-1-1">try to use valgrind</h3>
 <div class="outline-text-3" id="text-1-1">
-<div class="org-src-container">
-
-<pre class="src src-plantuml">box "日本"
-participant "親族" as Family
-participant "市役所" as origin
-end box
-
-box "居住国"
-participant "あなた" as You
-participant "日本大使館" as Embassy
-participant "Administrative(Living Country)" as living
-end box
-
-You-&gt;Family: 戸籍謄本発行の手続きを依頼
-note over You: 1 週間待つ
-Family-&gt;origin: 戸籍謄本発行手続き
-origin-&gt;Family: 戸籍謄本を受け取る
-Family-&gt;You: 戸籍謄本を郵送
-
-You-&gt;Embassy: 戸籍謄本の翻訳を依頼
-note over Embassy: 3 日間待つ
-Embassy-&gt;You: 出生証明書(Familienbuch)発行
-
-== 赤ちゃん爆誕 ==
-
-You-&gt;living: Stadtamtに親の出生証明書を含めて出生登録手続き
-</pre>
-</div>
-</div>
-</div>
-
-<div id="outline-container-sec-1-2" class="outline-3">
-<h3 id="sec-1-2">自分でやる場合</h3>
-<div class="outline-text-3" id="text-1-2">
-<div class="org-src-container">
-
-<pre class="src src-plantuml">box "日本"
-participant "市役所" as origin
-end box
-
-box "居住国"
-participant "あなた" as You
-participant "日本大使館" as Embassy
-participant "Administrative(Living Country)" as living
-end box
-
-You-&gt;origin: 戸籍謄本発行手続き
-note over You: 2weeks
-origin-&gt;You: 戸籍謄本を郵送
-
-note over Embassy: 3 日間待つ
-Embassy-&gt;You: 出生証明書(Familienbuch)発行
-
-== 赤ちゃん爆誕 ==
-
-You-&gt;living: Stadtamtに親の出生証明書を含めて出生登録手続き
-</pre>
-</div>
+<ul class="org-ul">
+<li>memcheck
+</li>
+<li>callgraph
+</li>
+<li>valgrind
+</li>
+</ul>
 </div>
 </div>
 </div>
