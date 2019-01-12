@@ -9,8 +9,12 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorgv/js/readtheorg.js"></script>
 
-* ドイツで日本人同士の両親から子供が生まれた場合の諸手続き
+* ドイツで日本人同士の両親から子供が生まれた場合の手引
 
+- Before birth
+  - 子供のGeburstskunde用に両親の出生手続きを
+
+- After birth
   - Geburtsurkunde
   - Reisepass/Passport
   - Kindergeld
@@ -21,7 +25,7 @@
 
   とりあえず戸籍反映までに２ヶ月かかると見ておいた方がよさそうです。
 
-  #+BEGIN_SRC plantuml :file images/ja_sequence_baby_authorization.png
+  #+BEGIN_SRC plantuml :file images/ja_sequence_baby_authorization.png :cmdline "-charset UTF-8"
        box "日本"
        participant "親族" as Family
        participant "市役所" as origin
@@ -75,38 +79,39 @@
 * 戸籍謄本を取得して両親の出生証明書を作る手続き                  :baby:
 
 ** 日本の親族に手伝ってもらえる場合
-   #+BEGIN_SRC plantuml :file images/ja_sequence_with_family.png
-    box "日本"
-    participant "親族" as Family
-    participant "市役所" as origin
-    end box
+   #+BEGIN_SRC plantuml :file images/ja_sequence_with_family.png :cmdline "-charset UTF-8"
+     skinparam classFontName Ricty
+     box "日本"
+     participant "親族" as Family
+     participant "市役所" as origin
+     end box
 
-    box "居住国"
-    participant "あなた" as You
-    participant "日本大使館" as Embassy
-    participant "Administrative(Living Country)" as living
-    end box
+     box "居住国"
+     participant "あなた" as You
+     participant "日本大使館" as Embassy
+     participant "Administrative(Living Country)" as living
+     end box
 
-    You->Family: 戸籍謄本発行の手続きを依頼
-    note over You: 1 週間待つ
-    Family->origin: 戸籍謄本発行手続き
-    origin->Family: 戸籍謄本を受け取る
-    Family->You: 戸籍謄本を郵送
+     You->Family: 戸籍謄本発行の手続きを依頼
+     note over You: 1 週間待つ
+     Family->origin: 戸籍謄本発行手続き
+     origin->Family: 戸籍謄本を受け取る
+     Family->You: 戸籍謄本を郵送
 
-    You->Embassy: 戸籍謄本の翻訳を依頼
-    note over Embassy: 3 日間待つ
-    Embassy->You: 出生証明書(Familienbuch)発行
+     You->Embassy: 戸籍謄本の翻訳を依頼
+     note over Embassy: 3 日間待つ
+     Embassy->You: 出生証明書(Familienbuch)発行
 
-    == 赤ちゃん爆誕 ==
+     == 赤ちゃん爆誕 ==
 
-    You->living: Stadtamtに親の出生証明書を含めて出生登録手続き
+     You->living: Stadtamtに親の出生証明書を含めて出生登録手続き
    #+END_SRC
 
    #+RESULTS:
    [[file:images/ja_sequence_with_family.png]]
 
 ** 自分でやる場合
-   #+BEGIN_SRC plantuml :file images/ja_sequence_self.png
+   #+BEGIN_SRC plantuml :file images/ja_sequence_self.png :cmdline "-charset UTF-8"
     box "日本"
     participant "市役所" as origin
     end box

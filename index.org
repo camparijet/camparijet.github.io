@@ -22,7 +22,7 @@
 
    It seems to take 3 months at least, if your original country is Japan. And bottle-neck is creating "Family Registration" record in Japan. That sounds a little bit funny.
 
-   #+BEGIN_SRC plantuml :file images/en_sequence_baby_authorization.png
+   #+BEGIN_SRC plantuml :file images/en_sequence_baby_authorization.png :cmdline "-charset UTF-8"
       box "Original Country"
       participant Family
       participant "Administrative(Origin Country)" as origin
@@ -69,7 +69,7 @@
 ** How to prepare Parent's birth proof (Familienbuch)
 
 *** When Your family in your original country can help
-   #+BEGIN_SRC plantuml :file images/en_sequence_with_family.png
+   #+BEGIN_SRC plantuml :file images/en_sequence_with_family.png :cmdline "-charset UTF-8"
      box "Original Country"
      participant Family
      participant "Administrative(Origin Country)" as origin
@@ -100,7 +100,7 @@
    [[file:images/en_sequence_with_family.png]]
 
 *** When You do by yourself
-   #+BEGIN_SRC plantuml :file images/en_sequence_self.png
+   #+BEGIN_SRC plantuml :file images/en_sequence_self.png :cmdline "-charset UTF-8"
      box "Original Country"
      participant "Administrative(Origin Country)" as origin
      end box

@@ -33,7 +33,7 @@
     - late case
       - how to kill the thread from watcher to worker
 
-  #+BEGIN_SRC plantuml :file images/pthread_design.png
+  #+BEGIN_SRC plantuml :file images/pthread_design.png :cmdline "-charset UTF-8"
   core->watcher: assign job
   watcher->worker: create thread for worker and dispatch job
   watcher->watcher: monitor worker
