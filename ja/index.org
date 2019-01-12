@@ -12,7 +12,10 @@
 * ドイツで日本人同士の両親から子供が生まれた場合の手引
 
 - Before birth
-  - 子供のGeburstskunde用に両親の出生手続きを
+  - [[https://service.berlin.de/dienstleistung/318960/][子供のGeburtsurkunde用の書類準備]]
+    - [[*%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E4%B8%A1%E8%A6%AA%E3%81%AEGeburtskunde%E3%82%92%E4%BD%9C%E3%82%8B%E6%89%8B%E7%B6%9A%E3%81%8D][両親のGeburtsurkunde]]
+    - 両親のVerheiratekunde / Lebenspartnerschaftsurkunde
+    - [[*Geburtskunde%E7%94%A8%E3%81%AE%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%EF%BC%88%E5%85%A8%E8%A8%B3%EF%BC%89][戸籍謄本の全訳]]
 
 - After birth
   - Geburtsurkunde
@@ -20,6 +23,38 @@
   - Kindergeld
   - Elterngeld
   - KITA Guteschein
+
+* Geburts
+
+* Geburtsurkunde用の戸籍謄本（全訳） :ドイツで日本人同士の両親から子供が生まれた場合の諸手続き:
+
+  Geburtsurkundeの取得には下記を提出する必要があります。
+
+  - [[*%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E4%B8%A1%E8%A6%AA%E3%81%AEGeburtskunde%E3%82%92%E4%BD%9C%E3%82%8B%E6%89%8B%E7%B6%9A%E3%81%8D][両親のGeburtsurkunde]]
+  - 両親のVerheiratekunde
+  - 上記の原本及びそのドイツ語訳
+
+  たまたま今回BerlinのStandesamt（出生局）の人が国別マニュアルを見せてくれまして。
+  それによると、日本人の場合、資料上記３つめの「原本」は「両親世帯のアポスティーユ付きの戸籍謄本」でした。
+
+  また、GeburtsurkundeとVerheiratekundeは在ドイツ日本大使館に戸籍謄本を持参すると作ってもらえます。これら２つの書類発行は日本国で閉じた手続きのため、アポスティーユの有無は関係ありません。
+
+  まとめると、タスクは下記の通り。
+
+  - アポスティーユ付きの戸籍謄本取得（だいたい１ヶ月）
+  - 大使館にて戸籍謄本からドイツ語全訳、Geburtsurkunde, Verheiratekundeを作成（１週間）
+
+  戸籍謄本は本籍のある自治体から取得。さらにそのあと外務省で認証を経てアポスティーユをつけてもらいます。
+
+  大都市であればワンストップサービスがおすすめです。
+
+  https://www.mofa.go.jp/mofaj/toko/page22_000607.html
+
+  Standesamtではアポスティーユの認証期間（３ヶ月）に関して厳しく見ている様子はありませんでした。
+
+  こちらで日本人同士で結婚した場合、必ずアポスティーユ付きの戸籍謄本が取得しているので、捨てずに使えということなんでしょうかね。
+
+  出産後にすぐにこれらの書類を提出できると後が楽なので、予定日の３ヶ月前から動き出しておくことを強くおすすめします。
 
 * 子供のパスポートの取得手続 :ドイツで日本人同士の両親から子供が生まれた場合の諸手続き:
 
@@ -76,7 +111,7 @@
 
   #+END_EXAMPLE
 
-* 戸籍謄本を取得して両親の出生証明書を作る手続き                  :baby:
+* 戸籍謄本を取得して両親のGeburtsurkundeを作る手続き                     :baby:
 
 ** 日本の親族に手伝ってもらえる場合
    #+BEGIN_SRC plantuml :file images/ja_sequence_with_family.png :cmdline "-charset UTF-8"
