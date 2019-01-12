@@ -15,7 +15,6 @@
 
   Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.
 
-
 * Initial test                                               :emacs:org:
   [2018-03-11 Sun]
 

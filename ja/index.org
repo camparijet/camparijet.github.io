@@ -11,24 +11,26 @@
 
 * ドイツで日本人同士の両親から子供が生まれた場合の手引
 
-- Before birth
-  - [[https://service.berlin.de/dienstleistung/318960/][子供のGeburtsurkunde用の書類準備]]
-    - [[*%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E4%B8%A1%E8%A6%AA%E3%81%AEGeburtskunde%E3%82%92%E4%BD%9C%E3%82%8B%E6%89%8B%E7%B6%9A%E3%81%8D][両親のGeburtsurkunde]]
-    - 両親のVerheiratekunde / Lebenspartnerschaftsurkunde
-    - [[*Geburtskunde%E7%94%A8%E3%81%AE%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%EF%BC%88%E5%85%A8%E8%A8%B3%EF%BC%89][戸籍謄本の全訳]]
+  - Before birth
+    - [[https://service.berlin.de/dienstleistung/318960/][子供のGeburtsurkunde用の書類準備]]
+      - 両親のGeburtsurkunde
+      - 両親のVerheiratekunde / Lebenspartnerschaftsurkunde
+      - 戸籍謄本の全訳
+    - 物品の購入
+    - おむつ台などのセットアップ
 
-- After birth
-  - Geburtsurkunde
-  - Reisepass/Passport
-  - Kindergeld
-  - Elterngeld
-  - KITA Guteschein
+  - After birth
+    - Geburtsurkunde
+    - Reisepass/Passport
+    - Kindergeld
+    - Elterngeld
+    - KITA Guteschein
 
 * Geburtsurkunde用の戸籍謄本（全訳） :ドイツで日本人同士の両親から子供が生まれた場合の諸手続き:
 
   Geburtsurkundeの取得には下記を提出する必要があります。
 
-  - [[*%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E4%B8%A1%E8%A6%AA%E3%81%AEGeburtskunde%E3%82%92%E4%BD%9C%E3%82%8B%E6%89%8B%E7%B6%9A%E3%81%8D][両親のGeburtsurkunde]]
+  - 両親のGeburtsurkunde
   - 両親のVerheiratekunde
   - 上記の原本及びそのドイツ語訳
 

@@ -10,7 +10,7 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorgv/js/readtheorg.js"></script>
 
-* [[file:diary/index.html][Diary]] / [[file:ja/index.org][日本語日記]]
+* [[file:diary/index.org][Diary]] / [[file:ja/index.org][日本語日記]]
 ** How to authorize my Baby to public Service in Germany
 
    For instance, it requires your Baby's identificatin number of German citizen and Residence Permission to access following service
