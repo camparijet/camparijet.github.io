@@ -24,8 +24,6 @@
   - Elterngeld
   - KITA Guteschein
 
-* Geburts
-
 * Geburtsurkunde用の戸籍謄本（全訳） :ドイツで日本人同士の両親から子供が生まれた場合の諸手続き:
 
   Geburtsurkundeの取得には下記を提出する必要があります。
