@@ -9,6 +9,212 @@
 #+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
 
+* 出産前に済ませておきたいお家のセットアップと買い物リスト
+
+  出産は突然でしたが、あっという間に１ヶ月が無事に終わりました。
+  パートナーの尽力により、たこやき君も日々すくすく成長していて安心です。
+
+  忘れないうちに、もしも過去に遡って出産前に用意しておくなら用意しておいたであろうリストをおいておきます。
+
+  - ベッド(Bett)
+    - 本体
+    - マットレス(Matratze)
+    - シーツ(Jersey Spannbettlaken)
+    - 毛布(Decke)
+  - おむつ交換台
+    - 凹型マットレス(Keil Mulde)
+    - 交換用紙シート(Wickelunterlage)
+    - おむつ用ゴミ箱
+    - ウェットティッシュ
+  - 体温計(Fieberthermometer)
+  - 加湿器
+  - 紙おむつ
+  - 洋服
+    - 下着
+    - 上着
+    - ベビーバッグ
+    - おくるみ(Windeltücher)
+    - 幼児用洗濯洗剤
+  - ミルク関連
+    - 粉ミルク
+    - 哺乳瓶
+    - 注射器
+    - 幼児用食器洗剤
+    - 搾乳機
+    - 煮沸消毒用の鍋
+  - チャイルドシート + ベビーカー
+  - お風呂用品
+    - お風呂
+    - 温度計
+    - 泡立て用スポンジ
+    - かけ湯用鍋
+
+** ベッド (Bett)
+
+   たこやき君が日々の大半を過ごしている場所です。しかし思った以上にベッドの上では寝てくれないという。
+   日々工夫しているのですが、たこやき君の変化が著しいので未だ解決しておりません。
+
+*** 本体
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B01I1R89LA&asins=B01I1R89LA&linkId=eb6f82e28568f8d38d54bd2eb1fcddd0&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+        </iframe>
+        </iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B078KB8Y9R&asins=B078KB8Y9R&linkId=f8e3c0143947b149808bdfa909a62f17&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+        </iframe>
+    #+END_EXPORT
+
+
+    扉がないベッドの方が赤ん坊を入れやすいかと思い、左のような扉なしのものを探していました。しかし、実際使ってみると親ベッドに座りながら赤ん坊を持ち運ぶ必要があり、想像以上に大変でした。
+    そして生後一ヶ月は別に親ベッドにくっつけなくても寝てくれるようです。
+    むしろ扉がないベッドから入れるのがでこちらのほうが便利で良かったかなーと後悔しています。そんなわけでふたつ目を貼っておきます。
+
+*** マットレス
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B010VHGBJU&asins=B010VHGBJU&linkId=6aac99dfd1017fc39dda267fca6fb86e&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+    #+END_EXPORT
+
+    マットレスは特にこだわりなくサイズだけ気をつけて購入。おもらしをしてしまうこともあるとおもうので、２つ買っておくといいのかなと思います。
+
+*** シーツ
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B00I0W6ILA&asins=B00I0W6ILA&linkId=10a1deb679653d703bee4863c09be437&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+        </iframe>
+    #+END_EXPORT
+
+    こちらも色とサイズだけ気をつけて購入。Water-proof/Wasserdichteとかあるらしい。
+
+*** 毛布
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B071HVC42P&asins=B071HVC42P&linkId=3c722cae9aad9484754a2b86fc2182bf&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    #+END_EXPORT
+
+    冬生まれだと毛布は必須になるかと。このサイズだとおくるんだ上からもかけられるので便利でした。
+
+** おむつ交換台
+
+   生後一ヶ月、おとうさんが手軽に貢献できるのはおむつ交換ではないでしょうか。
+
+   ベルリンの病院あるあるだと思いますが、私達の出産がおこなわれた病院では、出産直後から、Hebameさんや看護師さんがおむつ交換をお父さんに頼んできます。
+
+   お父さん方は出産直後の３日間くらいはそこで修行し、お家へ帰ります。
+
+   交換台をきちんとセットアップしておくと、出産後病院から戻ってきたときとても楽だと思います。
+
+*** マットレス
+
+    個人的に、おむつ交換時に赤ん坊が痛くないように机などに凹型のマットレスを引くことをおすすめします。
+
+    私達の場合、パートナーがしっかりと布を机に引いて用意してくれていたのですが、病院から帰ってきて相談の上即購入しました。
+
+    最初から買っておくべきだった、というものの１つです。
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B017VBAIAM&asins=B017VBAIAM&linkId=16e483116277557ed756aa1315688223&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
+    #+END_EXPORT
+
+    修行中に病院でもマットレスを使っていたのですが、これがとても便利でした。
+
+    安心して赤ん坊をおける場所が一つ増えるだけで作業がぐんとやりやすくなります。
+
+*** 交換用紙シート
+
+#+BEGIN_EXPORT html
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B07821B1BQ&asins=B07821B1BQ&linkId=a97ee92f6247907a3a7eb705b6051a1c&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B0784D7B51&asins=B0784D7B51&linkId=92600fef3caaa8a540ff0b6916cc15f8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+#+END_EXPORT
+
+    https://www.rossmann.de/produkte/babydream/wickelunterlage/4305615544250.html
+    https://www.dm.de/babylove-wickelunterlagen-p4058172059810.html
+
+    どんなに頑張ってもおむつ台で漏らすのでこういうの用意しておきます。
+
+    慣れるまでこういう些細なことで心が折れるので備えておくと楽です。
+
+*** おむつ用ゴミ箱
+
+#+BEGIN_EXPORT html
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B014W8JRUY&asins=B014W8JRUY&linkId=885d410dcb7dc90e269f37cec56477dd&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    </iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B00CU95158&asins=B00CU95158&linkId=a8a02a49ad52da97da1bb7a1740ed1d9&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+#+END_EXPORT
+
+冬でも匂いが部屋にこもらなくて快適。
+
+*** ウェットティッシュ
+
+#+BEGIN_EXPORT html
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B073HTB3XV&asins=B073HTB3XV&linkId=be2de852b28f1bc8b73f86193badc3c1&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+#+END_EXPORT
+
+排泄後の処理に必須なのでこのくらい買っておいたほうが安心だと思います。消費速度は1箱/月。
+
+** 体温計
+
+#+BEGIN_EXPORT html
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B0014II7G6&asins=B0014II7G6&linkId=cc92761614241e6aba2d67b1241b45a8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+#+END_EXPORT
+
+１０秒程度と手早くできること。素材が柔らかく、あかちゃんに負担が少ない。いずれの点でも大人用ものを使うより格段に良いと思います。
+
+** 加湿器
+
+
+
+** 紙おむつ
+** 洋服
+*** 下着
+*** 上着
+*** ベビーバッグ
+*** おくるみ
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B01FRCB2CK&asins=B01FRCB2CK&linkId=13fb5a62774dd2d61f0b321576eb181a&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    #+END_EXPORT
+
+    巻いてよし、だっこ時の服ならしによし、寝るときにかけてよしと出産直後から大活躍したおくるみ。
+    早めに購入して確実に出産入院バックに入れておきたいところ。
+
+*** 幼児用洗濯洗剤
+** ミルク関連
+*** 粉ミルク
+*** 哺乳瓶
+*** 注射器
+*** 幼児用食器洗剤
+*** 搾乳機
+*** 煮沸消毒用の鍋
+** チャイルドシート + ベビーカー
+** お風呂用品
+*** お風呂
+*** 温度計
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B00NIX3S50&asins=B00NIX3S50&linkId=f42ec9974ba24de7fe32a62d6383b506&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+        </iframe>
+    #+END_EXPORT
+
+    どの温度にするべきかも書いてあって便利。温度間違えると大怪我につながるので必須です。
+
+*** 泡立て用スポンジ
+*** かけ湯用鍋
+
+* 出産から１ヶ月後までで大変だったことまとめ
+
+  - 母乳が出ないよ問題
+  - 粉ミルク
+  - 搾乳器の
+
 * ドイツで日本人同士の両親から子供が生まれた場合の手引
 
   - Before birth
