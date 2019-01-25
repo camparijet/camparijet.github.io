@@ -52,16 +52,16 @@
 ** ベッド (Bett)
 
    たこやき君が日々の大半を過ごしている場所です。しかし思った以上にベッドの上では寝てくれないという。
-   日々工夫しているのですが、たこやき君の変化が著しいので未だ解決しておりません。
+   日々工夫しているのですが、たこやき君の変化が著しく、追いつくのがなかなか大変。。
 
 *** 本体
 
     #+BEGIN_EXPORT html
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B01I1R89LA&asins=B01I1R89LA&linkId=eb6f82e28568f8d38d54bd2eb1fcddd0&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-	</iframe>
-	</iframe>
+        </iframe>
+        </iframe>
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B078KB8Y9R&asins=B078KB8Y9R&linkId=f8e3c0143947b149808bdfa909a62f17&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-	</iframe>
+        </iframe>
     #+END_EXPORT
 
 
@@ -81,7 +81,7 @@
 
     #+BEGIN_EXPORT html
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B00I0W6ILA&asins=B00I0W6ILA&linkId=10a1deb679653d703bee4863c09be437&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-	</iframe>
+        </iframe>
     #+END_EXPORT
 
     こちらも色とサイズだけ気をつけて購入。Water-proof/Wasserdichteとかあるらしい。
@@ -99,27 +99,29 @@
 
    生後一ヶ月、おとうさんが手軽に貢献できるのはおむつ交換ではないでしょうか。
 
-   ベルリンの病院あるあるだと思いますが、私達の出産がおこなわれた病院では、出産直後から、Hebameさんや看護師さんがおむつ交換をお父さんに頼んできます。
+   ベルリンの病院あるあるだと思いますが、私達の出産がおこなわれた病院では、出産直後から、Hebameさんや看護師さんがおむつ交換をお父さんに頼んできました。
 
    お父さん方は出産直後の３日間くらいはそこで修行し、お家へ帰ります。
 
-   交換台をきちんとセットアップしておくと、出産後病院から戻ってきたときとても楽だと思います。
+   交換台をきちんとセットアップしておくと、出産後病院から戻ってきたときとても楽だったろうなあ。。
 
 *** マットレス
 
     個人的に、おむつ交換時に赤ん坊が痛くないように机などに凹型のマットレスを引くことをおすすめします。
 
-    私達の場合、パートナーがしっかりと布を机に引いて用意してくれていたのですが、病院から帰ってきて相談の上即購入しました。
-
-    最初から買っておくべきだった、というものの１つです。
+    私達の場合、パートナーがしっかりと布を机に引いて用意してくれていて、当初にはリスト入りしていませんでした。
 
     #+BEGIN_EXPORT html
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B017VBAIAM&asins=B017VBAIAM&linkId=16e483116277557ed756aa1315688223&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>
     #+END_EXPORT
 
-    修行中に病院でもマットレスを使っていたのですが、これがとても便利でした。
+    が、出産直後のおむつトレーニングで利用した結果、とても便利だったため急遽購入を決めました。
 
-    安心して赤ん坊をおける場所が一つ増えるだけで作業がぐんとやりやすくなります。
+    決め手は安定性。
+
+    病院での修行中はパンパース製のものだったのですが、見つからずこちらを購入。
+
+    安心して赤ん坊をおける場所が一つ増えるだけで作業がぐんとやりやすくなりました。
 
 *** 交換用紙シート
 
@@ -135,7 +137,7 @@
 
     どんなに頑張ってもおむつ台で漏らすのでこういうの用意しておきます。
 
-    慣れるまでこういう些細なことで心が折れるので備えておくと楽です。
+    慣れるまでこういう些細なことで心が折れました。備えておけばよかった。
 
 *** おむつ用ゴミ箱
 
@@ -147,7 +149,7 @@
     </iframe>
 #+END_EXPORT
 
-冬でも匂いが部屋にこもらなくて快適。
+匂いが部屋にこもらなくて快適。しかし新生児の便はそれほど臭わないので、もう少しあとでも良いのかも。
 
 *** ウェットティッシュ
 
@@ -160,22 +162,83 @@
 
 ** 体温計
 
-#+BEGIN_EXPORT html
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B0014II7G6&asins=B0014II7G6&linkId=cc92761614241e6aba2d67b1241b45a8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-#+END_EXPORT
+   #+BEGIN_EXPORT html
+   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B0014II7G6&asins=B0014II7G6&linkId=cc92761614241e6aba2d67b1241b45a8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+       </iframe>
+   #+END_EXPORT
 
-１０秒程度と手早くできること。素材が柔らかく、あかちゃんに負担が少ない。いずれの点でも大人用ものを使うより格段に良いと思います。
+   お医者さんからのアドバイスで１日２回体温を図っていたのですが、当初使っていた大人用のがとてもストレスフルだったので購入。
+
+   利点としては、１０秒程度と手早くできること。素材が柔らかく、あかちゃんに負担が少ない。どちらの点でも大人用ものを使うより格段に快適でした。
 
 ** 加湿器
 
+   #+BEGIN_EXPORT html
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B0047O0LKE&asins=B0047O0LKE&linkId=390d55fb46abb169f9e98601c0171530&show_border=true&link_opens_in_new_window=true"></iframe>
+   #+END_EXPORT
 
+   赤ちゃんが冬に生まれるなら一考の価値あり。
+   １０−２月は間違いなく気温も湿度も低い気候になるので、暖房と加湿器は必須ではないでしょうか。
+   とくに両親は赤ちゃんと同じ部屋で過ごす時間が多くなるので、風邪やインフルエンザ対策としても利用しています。
 
 ** 紙おむつ
+
+   #+BEGIN_EXPORT html
+   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B06Y12PQJ8&asins=B06Y12PQJ8&linkId=bdf4fad0013d5bc33a7e966d02afacb5&show_border=true&link_opens_in_new_window=true"></iframe>
+   #+END_EXPORT
+
+   もしも赤ちゃんが比較的小さかったらサイズ０のほうがいいようです。
+
+   はじめの一ヶ月は１日におよそ１０回程度の交換だったので、多かれ少なかれ３００枚程度必要だと思います。
+
+   AmazonないしRossmann, dmあたりでまとめ買いすることをおすすめします。さもなくば毎週貴重な時間をおむつの運搬で披露することに。。
+
 ** 洋服
-*** 下着
-*** 上着
-*** ベビーバッグ
+
+   季節によって大きく変わると思いますが、こちらは、あくまで秋から冬の出産のケースです。
+
+*** 普段着
+
+    現状、長袖シャツ＋タイツ＋上着に帽子と靴下。
+
+    だいたい下記でローテーションしています。
+
+    |            | 枚数   |
+    |------------+--------|
+    | 長袖シャツ | １０枚 |
+    | タイツ     | ３枚   |
+    | 上着       | ４着   |
+    | 帽子       | ３つ   |
+    | 靴下       | ６組   |
+
+    PRIMARKがおすすめらしいのですが、未だに行く機会が見つけられず。。
+
+    #+BEGIN_EXPORT html
+	<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07FJWTRC9&asins=B07FJWTRC9&linkId=48fac45e00c39a56bfbed4d39060a5b0&show_border=true&link_opens_in_new_window=true"></iframe>    
+    #+END_EXPORT
+
+*** 帽子
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07BK7VH31&asins=B07BK7VH31&linkId=9b09ac0d80440a524f26976dd82adfc3&show_border=true&link_opens_in_new_window=true"></iframe>    
+    #+END_EXPORT
+    
+    私は疎かったのですが、帽子は中耳炎対策として外出時に必須だそうです。
+
+    というわけで、安心して耳あてがあるものを頼みました。
+
+    外出するたびにパートナーと３分おきに確認していたのですが、そのへんが解放されて外出しやすくなりました。
+
+*** スリーピングバック
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07FJWTRC9&asins=B07FJWTRC9&linkId=48fac45e00c39a56bfbed4d39060a5b0&show_border=true&link_opens_in_new_window=true"></iframe>    
+    #+END_EXPORT
+
+    現状、大抵の場合、パートナーさんに抱かれつつたこやき君が寝ています。
+
+    深夜は心配なので、スリーピングバックを利用しています。
+
 *** おくるみ
 
     #+BEGIN_EXPORT html
@@ -187,6 +250,17 @@
     早めに購入して確実に出産入院バックに入れておきたいところ。
 
 *** 幼児用洗濯洗剤
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B0017PRI9S&asins=B0017PRI9S&linkId=b3d9200f53217db1ab67525ec69b5b23&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+    パートーナーからの強い要請により、たこやきくんの衣服は既に専用の洗濯スキームで用意されております。
+
+    毎回別スキームで洗うのが大変そうだったので整理して作業量を減らすことにしました。
+
+    子供用の洗剤って高いんですね（遠い目）
+
 ** ミルク関連
 *** 粉ミルク
 *** 哺乳瓶
@@ -201,7 +275,7 @@
 
     #+BEGIN_EXPORT html
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B00NIX3S50&asins=B00NIX3S50&linkId=f42ec9974ba24de7fe32a62d6383b506&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-	</iframe>
+        </iframe>
     #+END_EXPORT
 
 
