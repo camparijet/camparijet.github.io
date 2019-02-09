@@ -191,6 +191,8 @@
 
    はじめの一ヶ月は１日におよそ１０回程度の交換だったので、多かれ少なかれ３００枚程度必要だと思います。
 
+   買う際には [[https://lemo-nade.com/omutsu-cost/][こちらのサイト]] を参考にしました。
+
    AmazonないしRossmann, dmあたりでまとめ買いすることをおすすめします。さもなくば毎週貴重な時間をおむつの運搬で披露することに。。
 
 ** 洋服
@@ -214,15 +216,15 @@
     PRIMARKがおすすめらしいのですが、未だに行く機会が見つけられず。。
 
     #+BEGIN_EXPORT html
-	<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07FJWTRC9&asins=B07FJWTRC9&linkId=48fac45e00c39a56bfbed4d39060a5b0&show_border=true&link_opens_in_new_window=true"></iframe>    
+        <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07FJWTRC9&asins=B07FJWTRC9&linkId=48fac45e00c39a56bfbed4d39060a5b0&show_border=true&link_opens_in_new_window=true"></iframe>
     #+END_EXPORT
 
 *** 帽子
 
     #+BEGIN_EXPORT html
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07BK7VH31&asins=B07BK7VH31&linkId=9b09ac0d80440a524f26976dd82adfc3&show_border=true&link_opens_in_new_window=true"></iframe>    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07BK7VH31&asins=B07BK7VH31&linkId=9b09ac0d80440a524f26976dd82adfc3&show_border=true&link_opens_in_new_window=true"></iframe>
     #+END_EXPORT
-    
+
     私は疎かったのですが、帽子は中耳炎対策として外出時に必須だそうです。
 
     というわけで、安心して耳あてがあるものを頼みました。
@@ -232,7 +234,7 @@
 *** スリーピングバック
 
     #+BEGIN_EXPORT html
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07FJWTRC9&asins=B07FJWTRC9&linkId=48fac45e00c39a56bfbed4d39060a5b0&show_border=true&link_opens_in_new_window=true"></iframe>    
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07FJWTRC9&asins=B07FJWTRC9&linkId=48fac45e00c39a56bfbed4d39060a5b0&show_border=true&link_opens_in_new_window=true"></iframe>
     #+END_EXPORT
 
     現状、大抵の場合、パートナーさんに抱かれつつたこやき君が寝ています。
@@ -262,15 +264,112 @@
     子供用の洗剤って高いんですね（遠い目）
 
 ** ミルク関連
-*** 粉ミルク
-*** 哺乳瓶
-*** 注射器
-*** 幼児用食器洗剤
+
+   もしもドイツで出産するならば、病院に出産後何日で退院するかTemrin取る時点で聞いておくことをおすすめします。
+
+   ベルリンの病院は病院間での差はあれど、出産後２−３日で退院になると思います。
+
+   私のところでは初産だったためか、完全に母乳で育児するには早すぎました。
+
+   そこでお医者さんと話し合った結果、搾乳機を利用して母乳が出る練習を続けつつ、粉ミルクを上げるという方針をとりました。
+
+   病院から退院するとすぐに粉ミルクが必要となり、２週間ほど母乳１割と粉ミルク９割の生活が続きました。
+
+   可能であれば様子をみて出産後２日目あたりに手配しておきたいところ。
+
+   また、奥さんに寝てもらうために、赤ちゃんを１時間ほどを引き剥がすときに常にミルクが必須でした。
+
 *** 搾乳機
+
+    私達のケースでは、病院のパートナー会社から保険の範囲内でリースしてもらうことができたため、1ヶ月40ユーロ程度で利用できました。
+
+    母離れトレーニングの一環としてポータブルなものを再度購入して将来に備えています。
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B009M37YA0&asins=B009M37YA0&linkId=7ff4f0fe1150482ba3f1981564957a3c&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+*** 粉ミルク
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07KHJF8DR&asins=B07KHJF8DR&linkId=a6a997b70213d690721199f5eae97dff&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+    Rossman, dmでも手に入ります。
+
+*** 哺乳瓶
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B01G3JYAIE&asins=B01G3JYAIE&linkId=8e146280bd3adfda05959c4b31510ff5&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+    NUKおすすめ。
+
+*** 幼児用食器洗剤
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B00I2KYSPI&asins=B00I2KYSPI&linkId=afd9cbe3d24f0a71341f7e520008d907&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
 *** 煮沸消毒用の鍋
-** チャイルドシート + ベビーカー
+
+    右側の取っ手付き鍋がぴったりでした。几帳面なので食用と混同しないようにすることだけに神経使ってました。
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B007WSP4TA&asins=B007WSP4TA&linkId=aabc007317447d568b4235f9ea3e6484&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+** タクシー、チャイルドシート 、ベビーカー、抱っこ紐
+
+   妊娠の話を聞いて頭の中でシミュレートしてはじめに浮かんだ疑問はどうやって病院から帰るんだろう、ということでした。
+
+   結論からいうと、退院後家へ帰る際は、タクシーで帰るのが一番おすすめです。入院中は相当疲弊すると思うので、こんくらい楽していいと思います。
+
+   注意点がひとつだけあります。チャイルドシートの用意です。これは法律で定められているためです。（[[http://taxipedia.info/pflicht-zur-benutzung-von-kindersitzen-im-taxi/][Taxipedia]], [[https://www.gesetze-im-internet.de/stvo_2013/__21.html][§ 21 Abs. 1a StVO.]]）
+
+   タクシーを手配するときに前もって新生児がいてチャイルドシートをのせるつもりであることを告げることをおすすめします。
+
+   仕事上Uberはよく使うのですが、この場面では圧倒的にMyTaxi([[https://itunes.apple.com/de/app/mytaxi-tap-move-freely/id357852748?l=en&mt=8][iOS]] [[https://play.google.com/store/apps/details?id=taxi.android.client&hl=en][Android]])がおすすめです。
+
+   配車時にSMSで運転手にこれらの条件を告げることができるので疲弊してドイツ語が出てこなくても安心です。
+
+*** チャイルドシート＋ベビーカー
+
+    どのサイズのベビーカーがベストかはちょっとよくわかりません。
+
+    ただ、ベルリンの凸凹道に辟易していたので大きめの車輪でなおかつチャイルドシートが組み込めるものにしました。
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B073TLW7P2&asins=B073TLW7P2&linkId=1951e185290153fe738cd83f7a2a3827&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+    置く場所に困るサイズなのですが、このくらいのほうが安心して使えます。あくまで個人の感想です。
+
+*** 抱っこ紐
+
+    出産後1ヶ月ほどお父さんが抱くと泣いてしまう現象があったのですが、こちらの導入により劇的に解決を果たしました。
+
+    ちょっとした外出時であればこれで十分なのでベビーカーの大きさを補完するベストな働きを見せてくれています。
+
+    この時期のベルリンは寒いので　１）エプロンの要領でひっかけるカバー２）中耳炎対策の、耳あて付きの帽子　も合わせて購入することをおすすめします。
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B0000AQVG5&asins=B0000AQVG5&linkId=f34bc8bc899522ccd3ac065dfb428720&show_border=true&link_opens_in_new_window=true"></iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B01NCSM4F6&asins=B01NCSM4F6&linkId=5d2fd858ba1b2dcf535eb17dce14748f&show_border=true&link_opens_in_new_window=true"></iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B07BK7VH31&asins=B07BK7VH31&linkId=d941696d4f2ebec6ceacc6b6429f7f68&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
 ** お風呂用品
+
 *** お風呂
+
+    こちらの商品を買って台を風呂桶部分をバスタブの中に入れて使ってます。
+
+    下記のものだと脚付きなのですが、赤ちゃんを落とした時が怖いので、現状では脚をつかっていません。
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B000VZKV2Q&asins=B000VZKV2Q&linkId=087d11ee98e99d6e01d1002ed8ddb672&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
 *** 温度計
 
     #+BEGIN_EXPORT html
@@ -282,7 +381,16 @@
     どの温度にするべきかも書いてあって便利。温度間違えると大怪我につながるので必須です。
 
 *** 泡立て用スポンジ
+
+    Rossmanで売っていた普通の泡立て機を使っています。
+
 *** かけ湯用鍋
+
+    #+BEGIN_EXPORT html
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B007WSP4TA&asins=B007WSP4TA&linkId=aabc007317447d568b4235f9ea3e6484&show_border=true&link_opens_in_new_window=true"></iframe>
+    #+END_EXPORT
+
+    ミルク瓶消毒用に買った鍋シリーズのうちの1つを流用しています。
 
 * 出産から１ヶ月後までで大変だったことまとめ
 
