@@ -67,16 +67,175 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></a></li>
-<li><a href="#sec-2">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></a></li>
-<li><a href="#sec-3">design pattern of pthread</a></li>
+<li><a href="#sec-1">introduce wifi direct between PC and Android under sshfs</a>
+<ul>
+<li><a href="#sec-1-1">structure</a></li>
+<li><a href="#sec-1-2">speed test between phone and PC</a></li>
+<li><a href="#sec-1-3">SOMEDAY sshfs brutual shutdown cause other problems</a>
+<ul>
+<li><a href="#sec-1-3-1">behavior difference between wifi and usb</a></li>
+<li><a href="#sec-1-3-2">tramp on termux&#xa0;&#xa0;&#xa0;<span class="tag"><span class="hotfix">hotfix</span></span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#sec-2">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></a></li>
+<li><a href="#sec-3">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></a></li>
+<li><a href="#sec-4">design pattern of pthread</a></li>
 </ul>
 </div>
 </div>
 
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></h2>
+<h2 id="sec-1">introduce wifi direct between PC and Android under sshfs</h2>
 <div class="outline-text-2" id="text-1">
+<p>
+Usually I write memo in files in the storage under my Android phone.
+</p>
+
+<p>
+Previously I use usb-tethering between Android phone and PC connection.
+</p>
+</div>
+
+<div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1">structure</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+mount sshfs + wifi direct
+</p>
+
+
+<div class="figure">
+<p><img src="images/wifi_direct_sshfs_nexus5x.png" alt="wifi_direct_sshfs_nexus5x.png" />
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2">speed test between phone and PC</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+wifi direct
+</p>
+
+<pre class="example">
+% iperf3 -c 192.168.49.1
+Connecting to host 192.168.49.1, port 5201
+[  4] local 192.168.49.80 port 42588 connected to 192.168.49.1 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  6.64 MBytes  55.7 Mbits/sec    0    243 KBytes
+[  4]   1.00-2.00   sec  5.90 MBytes  49.5 Mbits/sec    0    355 KBytes
+[  4]   2.00-3.00   sec  5.53 MBytes  46.4 Mbits/sec    0    395 KBytes
+[  4]   3.00-4.00   sec  5.53 MBytes  46.4 Mbits/sec    0    485 KBytes
+[  4]   4.00-5.00   sec  3.04 MBytes  25.5 Mbits/sec    1    485 KBytes
+[  4]   5.00-6.00   sec  5.41 MBytes  45.4 Mbits/sec    0    509 KBytes
+[  4]   6.00-7.00   sec  5.72 MBytes  48.0 Mbits/sec    0    536 KBytes
+[  4]   7.00-8.00   sec  5.97 MBytes  50.0 Mbits/sec    0    591 KBytes
+[  4]   8.00-9.00   sec  6.23 MBytes  52.3 Mbits/sec    0    653 KBytes
+[  4]   9.00-10.00  sec  6.25 MBytes  52.4 Mbits/sec    0    724 KBytes
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec  56.2 MBytes  47.2 Mbits/sec    1             sender
+[  4]   0.00-10.00  sec  52.6 MBytes  44.2 Mbits/sec                  receiver
+</pre>
+
+<p>
+wired
+</p>
+
+<pre class="example">
+% iperf3 -c 192.168.42.129
+Connecting to host 192.168.42.129, port 5201
+[  4] local 192.168.42.143 port 38882 connected to 192.168.42.129 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  18.9 MBytes   159 Mbits/sec    0    187 KBytes
+[  4]   1.00-2.00   sec  19.2 MBytes   161 Mbits/sec    0    215 KBytes
+[  4]   2.00-3.00   sec  19.3 MBytes   162 Mbits/sec    0    245 KBytes
+[  4]   3.00-4.00   sec  19.1 MBytes   160 Mbits/sec    0    245 KBytes
+[  4]   4.00-5.00   sec  19.3 MBytes   162 Mbits/sec    0    266 KBytes
+[  4]   5.00-6.00   sec  19.3 MBytes   162 Mbits/sec    0    266 KBytes
+[  4]   6.00-7.00   sec  19.2 MBytes   161 Mbits/sec    0    266 KBytes
+[  4]   7.00-8.00   sec  19.4 MBytes   163 Mbits/sec    0    266 KBytes
+[  4]   8.00-9.00   sec  19.0 MBytes   159 Mbits/sec    0    430 KBytes
+[  4]   9.00-10.00  sec  19.2 MBytes   161 Mbits/sec    0    430 KBytes
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-10.00  sec   192 MBytes   161 Mbits/sec    0             sender
+[  4]   0.00-10.00  sec   191 MBytes   161 Mbits/sec                  receiver
+</pre>
+
+<p>
+So the wifi direct environment is 3~4 times slower than the wired one
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-3" class="outline-3">
+<h3 id="sec-1-3">SOMEDAY sshfs brutual shutdown cause other problems</h3>
+<div class="outline-text-3" id="text-1-3">
+<ul class="org-ul">
+<li>when you modify file which is mounted via sshfs, your editor may get stuck
+</li>
+
+<li>shutdown gracefully when wifi is away
+</li>
+
+<li>enable verbose log
+</li>
+</ul>
+</div>
+
+<div id="outline-container-sec-1-3-1" class="outline-4">
+<h4 id="sec-1-3-1">behavior difference between wifi and usb</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<ul class="org-ul">
+<li>emacs goes hang over wifi-direct while it doesn't over USB
+</li>
+<li>using fuse in debugging mode shows over USB also failed, it seems because background may handle signal correctly for disconnection
+</li>
+<li>fuse logs
+<ul class="org-ul">
+<li><a href="research/wifi-direct/wifi_direct_brutual_disconnect_sshfs.log">wifi</a>
+</li>
+<li><a href="research/wifi-direct/usb_brutual_disconnect_sshfs.log">usb</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1-3-2" class="outline-4">
+<h4 id="sec-1-3-2">tramp on termux&#xa0;&#xa0;&#xa0;<span class="tag"><span class="hotfix">hotfix</span></span></h4>
+<div class="outline-text-4" id="text-1-3-2">
+<p>
+Some people say "tramp in emacs avoid this problem"
+</p>
+
+<p>
+So I tried tramp after setting the following additionally.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-elisp">(add-to-list 'tramp-remote-path "/data/data/com.termux/files/usr/bin" t)
+(add-to-list 'tramp-remote-path "/data/data/com.termux/files/usr/bin/applets" t)
+</pre>
+</div>
+
+<p>
+I feel this was so slow not reliable enough unfortunately.
+</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></h2>
+<div class="outline-text-2" id="text-2">
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">[2018-03-14 Wed]</span></span>
 </p>
@@ -87,9 +246,9 @@ Just for note. Job title is of course a position in the company, but one colleag
 </div>
 </div>
 
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></h2>
+<div class="outline-text-2" id="text-3">
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">[2018-03-11 Sun]</span></span>
 </p>
@@ -106,9 +265,9 @@ Try to start using <a href="https://github.com/fniessen/org-html-themes">https:/
 </div>
 
 
-<div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3">design pattern of pthread</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4">design pattern of pthread</h2>
+<div class="outline-text-2" id="text-4">
 <ul class="org-ul">
 <li>worker - watcher model
 <ul class="org-ul">
