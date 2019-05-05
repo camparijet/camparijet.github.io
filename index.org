@@ -13,9 +13,14 @@
 * Diary
   - [[file:diary/index.org][Diary]]
   - [[file:ja/index.org][日本語日記]]
+
 * Experiments
   - [[file:experiments/index.html][Daily experiments and its result.]]
 
 * CV
-  Refer [[file:cv/index.html][cv/index.html]]
-  Refer [[file:cv/index.org][cv/index.org]]
+  - Refer [[file:cv/index.html][cv/index.html]]
+  - Refer [[file:cv/index.org][cv/index.org]]
+
+file:images/panono.png
+
+file:images/slack-icon.gif
