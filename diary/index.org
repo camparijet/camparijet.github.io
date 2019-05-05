@@ -113,6 +113,122 @@
 
     I feel this was so slow not reliable enough unfortunately.
 
+* How to authorize my Baby to public Service in Germany
+
+  For instance, it requires your Baby's identificatin number of German citizen and Residence Permission to access following service
+
+  - Kindergeld
+  - Elterngeld
+  - KITA Guteschein
+
+  Following shows actual flow from birth event to finish all conditinos.
+
+  It seems to take 3 months at least, if your original country is Japan. And bottle-neck is creating "Family Registration" record in Japan. That sounds a little bit funny.
+
+  #+BEGIN_SRC plantuml :file images/en_sequence_baby_authorization.png :cmdline "-charset UTF-8"
+     box "Original Country"
+     participant Family
+     participant "Administrative(Origin Country)" as origin
+     end box
+
+     box "Living Country"
+     participant You
+     participant Embassy
+     participant "Administrative(Living Country)" as living
+     end box
+
+     note over You: "Birth Event"
+     You->living: "request Geburtsurkunde"
+     living->You: "Geburtsurkunde"
+     You->Embassy: "request Birth Certificate with (Application, Geburtsurkunde, Translated Geburtsurkunde)"
+     note over You: "2 Months"
+     Embassy->You: "Birth Certificate"
+     == Family Registration ==
+     You->Family: ask to fetch your Family Registration
+     note over You: 1 week
+     Family->origin: request of Family Registration
+     origin->Family: publish Family Registration
+     Family->You: send back Family Registration
+     == Passport ==
+     You->Embassy: request Passport with (Application, Family Registration, Photo)
+     note over Embassy: 4 days
+     Embassy->You: Passport
+     == Citizen Registration ==
+     You->living: request Citizen Registration with Passports
+     note over living: 0 days (within a day)
+     living->You: Citizen Registration
+     == Residence Permission ==
+     You->living: request Residence Permission with Passport and Citizen Registration
+     note over living: 2 weeks
+     living->You: Residence Permission and Identification number
+  #+END_SRC
+  #+RESULTS:
+  [[file:images/en_sequence_baby_authorization.png]]
+
+  Questions are
+  - Do we need official translator of Geburtsurkunde for Birth Certificate?
+  - Don't we have any easier way to finish Baby's Citizen Registration without Passport?
+
+* How to prepare Parent's birth proof (Familienbuch)
+
+** When Your family in your original country can help
+  #+BEGIN_SRC plantuml :file images/en_sequence_with_family.png :cmdline "-charset UTF-8"
+    box "Original Country"
+    participant Family
+    participant "Administrative(Origin Country)" as origin
+    end box
+
+    box "Living Country"
+    participant You
+    participant Embassy
+    participant "Administrative(Living Country)" as living
+    end box
+
+    You->Family: ask to fetch your Family Registration
+    note over You: 1 week
+    Family->origin: request of Family Registration
+    origin->Family: publish Family Registration
+    Family->You: send back Family Registration
+
+    You->Embassy: request to translate Family Registration (Familienbuch)
+    note over Embassy: 3 days
+    Embassy->You: Familenbuch
+
+    == Baby comes to the world! ==
+
+    You->living: submit applications with Familienbuch of Familienbuch
+  #+END_SRC
+
+  #+RESULTS:
+  [[file:images/en_sequence_with_family.png]]
+
+** When You do by yourself
+  #+BEGIN_SRC plantuml :file images/en_sequence_self.png :cmdline "-charset UTF-8"
+    box "Original Country"
+    participant "Administrative(Origin Country)" as origin
+    end box
+
+    box "Living Country"
+    participant You
+    participant Embassy
+    participant "Administrative(Living Country)" as living
+    end box
+
+    You->origin: request of Family Registration
+    note over You: 2weeks
+    origin->You: publish Family Registration
+
+    You->Embassy: request to translate Family Registration (Familienbuch)
+    Embassy->You: Familenbuch
+
+    == Baby comes to the world! ==
+
+    You->living: submit applications with Familienbuch of Familienbuch
+  #+END_SRC
+
+  #+RESULTS:
+  [[file:images/en_sequence_self.png]]
+
 * Job title shows mindset, not position                           :tech:
   [2018-03-14 Wed]
 
