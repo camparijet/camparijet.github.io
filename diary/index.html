@@ -3,22 +3,17 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Diary</title>
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="generator" content="Org-mode" />
-<link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/htmlize.css"/>
-<link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/readtheorg.css"/>
+<meta name="generator" content="Org mode" />
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
-<script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -67,35 +62,35 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#sec-1">introduce wifi direct between PC and Android under sshfs</a>
+<li><a href="#orge8f44f0">introduce wifi direct between PC and Android under sshfs</a>
 <ul>
-<li><a href="#sec-1-1">structure</a></li>
-<li><a href="#sec-1-2">speed test between phone and PC</a></li>
-<li><a href="#sec-1-3">SOMEDAY sshfs brutual shutdown cause other problems</a>
+<li><a href="#org077dd25">structure</a></li>
+<li><a href="#org09f04d3">speed test between phone and PC</a></li>
+<li><a href="#orgf37b4a5">sshfs brutual shutdown cause other problems</a>
 <ul>
-<li><a href="#sec-1-3-1">behavior difference between wifi and usb</a></li>
-<li><a href="#sec-1-3-2">tramp on termux&#xa0;&#xa0;&#xa0;<span class="tag"><span class="hotfix">hotfix</span></span></a></li>
+<li><a href="#org3126445">behavior difference between wifi and usb</a></li>
+<li><a href="#org52aae8a">tramp on termux&#xa0;&#xa0;&#xa0;<span class="tag"><span class="hotfix">hotfix</span></span></a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#sec-2">How to authorize my Baby to public Service in Germany</a></li>
-<li><a href="#sec-3">How to prepare Parent's birth proof (Familienbuch)</a>
+<li><a href="#orga0b003c">How to authorize my Baby to public Service in Germany</a></li>
+<li><a href="#org2bec046">How to prepare Parent's birth proof (Familienbuch)</a>
 <ul>
-<li><a href="#sec-3-1">When Your family in your original country can help</a></li>
-<li><a href="#sec-3-2">When You do by yourself</a></li>
+<li><a href="#org616ec2b">When Your family in your original country can help</a></li>
+<li><a href="#org2a4b6ff">When You do by yourself</a></li>
 </ul>
 </li>
-<li><a href="#sec-4">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></a></li>
-<li><a href="#sec-5">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></a></li>
-<li><a href="#sec-6">design pattern of pthread</a></li>
+<li><a href="#orgf670884">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></a></li>
+<li><a href="#org926a8b5">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></a></li>
+<li><a href="#orgce11202">design pattern of pthread</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1">introduce wifi direct between PC and Android under sshfs</h2>
-<div class="outline-text-2" id="text-1">
+<div id="outline-container-orge8f44f0" class="outline-2">
+<h2 id="orge8f44f0">introduce wifi direct between PC and Android under sshfs</h2>
+<div class="outline-text-2" id="text-orge8f44f0">
 <p>
 Usually I write memo in files in the storage under my Android phone.
 </p>
@@ -105,9 +100,9 @@ Previously I use usb-tethering between Android phone and PC connection.
 </p>
 </div>
 
-<div id="outline-container-sec-1-1" class="outline-3">
-<h3 id="sec-1-1">structure</h3>
-<div class="outline-text-3" id="text-1-1">
+<div id="outline-container-org077dd25" class="outline-3">
+<h3 id="org077dd25">structure</h3>
+<div class="outline-text-3" id="text-org077dd25">
 <p>
 mount sshfs + wifi direct
 </p>
@@ -120,9 +115,9 @@ mount sshfs + wifi direct
 </div>
 </div>
 
-<div id="outline-container-sec-1-2" class="outline-3">
-<h3 id="sec-1-2">speed test between phone and PC</h3>
-<div class="outline-text-3" id="text-1-2">
+<div id="outline-container-org09f04d3" class="outline-3">
+<h3 id="org09f04d3">speed test between phone and PC</h3>
+<div class="outline-text-3" id="text-org09f04d3">
 <p>
 wifi direct
 </p>
@@ -179,44 +174,36 @@ So the wifi direct environment is 3~4 times slower than the wired one
 </div>
 </div>
 
-<div id="outline-container-sec-1-3" class="outline-3">
-<h3 id="sec-1-3">SOMEDAY sshfs brutual shutdown cause other problems</h3>
-<div class="outline-text-3" id="text-1-3">
+<div id="outline-container-orgf37b4a5" class="outline-3">
+<h3 id="orgf37b4a5">sshfs brutual shutdown cause other problems</h3>
+<div class="outline-text-3" id="text-orgf37b4a5">
 <ul class="org-ul">
-<li>when you modify file which is mounted via sshfs, your editor may get stuck
-</li>
+<li>when you modify file which is mounted via sshfs, your editor may get stuck</li>
 
-<li>shutdown gracefully when wifi is away
-</li>
+<li>shutdown gracefully when wifi is away</li>
 
-<li>enable verbose log
-</li>
+<li>enable verbose log</li>
 </ul>
 </div>
 
-<div id="outline-container-sec-1-3-1" class="outline-4">
-<h4 id="sec-1-3-1">behavior difference between wifi and usb</h4>
-<div class="outline-text-4" id="text-1-3-1">
+<div id="outline-container-org3126445" class="outline-4">
+<h4 id="org3126445">behavior difference between wifi and usb</h4>
+<div class="outline-text-4" id="text-org3126445">
 <ul class="org-ul">
-<li>emacs goes hang over wifi-direct while it doesn't over USB
-</li>
-<li>using fuse in debugging mode shows over USB also failed, it seems because background may handle signal correctly for disconnection
-</li>
+<li>emacs goes hang over wifi-direct while it doesn't over USB</li>
+<li>using fuse in debugging mode shows over USB also failed, it seems because background may handle signal correctly for disconnection</li>
 <li>fuse logs
 <ul class="org-ul">
-<li><a href="research/wifi-direct/wifi_direct_brutual_disconnect_sshfs.log">wifi</a>
-</li>
-<li><a href="research/wifi-direct/usb_brutual_disconnect_sshfs.log">usb</a>
-</li>
-</ul>
-</li>
+<li><a href="research/wifi-direct/wifi_direct_brutual_disconnect_sshfs.log">wifi</a></li>
+<li><a href="research/wifi-direct/usb_brutual_disconnect_sshfs.log">usb</a></li>
+</ul></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-1-3-2" class="outline-4">
-<h4 id="sec-1-3-2">tramp on termux&#xa0;&#xa0;&#xa0;<span class="tag"><span class="hotfix">hotfix</span></span></h4>
-<div class="outline-text-4" id="text-1-3-2">
+<div id="outline-container-org52aae8a" class="outline-4">
+<h4 id="org52aae8a">tramp on termux&#xa0;&#xa0;&#xa0;<span class="tag"><span class="hotfix">hotfix</span></span></h4>
+<div class="outline-text-4" id="text-org52aae8a">
 <p>
 Some people say "tramp in emacs avoid this problem"
 </p>
@@ -226,9 +213,8 @@ So I tried tramp after setting the following additionally.
 </p>
 
 <div class="org-src-container">
-
-<pre class="src src-elisp">(add-to-list 'tramp-remote-path "/data/data/com.termux/files/usr/bin" t)
-(add-to-list 'tramp-remote-path "/data/data/com.termux/files/usr/bin/applets" t)
+<pre class="src src-elisp">(add-to-list 'tramp-remote-path <span style="color: #E6DB74;">"/data/data/com.termux/files/usr/bin"</span> t)
+(add-to-list 'tramp-remote-path <span style="color: #E6DB74;">"/data/data/com.termux/files/usr/bin/applets"</span> t)
 </pre>
 </div>
 
@@ -240,20 +226,17 @@ I feel this was so slow not reliable enough unfortunately.
 </div>
 </div>
 
-<div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2">How to authorize my Baby to public Service in Germany</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-orga0b003c" class="outline-2">
+<h2 id="orga0b003c">How to authorize my Baby to public Service in Germany</h2>
+<div class="outline-text-2" id="text-orga0b003c">
 <p>
 For instance, it requires your Baby's identificatin number of German citizen and Residence Permission to access following service
 </p>
 
 <ul class="org-ul">
-<li>Kindergeld
-</li>
-<li>Elterngeld
-</li>
-<li>KITA Guteschein
-</li>
+<li>Kindergeld</li>
+<li>Elterngeld</li>
+<li>KITA Guteschein</li>
 </ul>
 
 <p>
@@ -274,20 +257,19 @@ It seems to take 3 months at least, if your original country is Japan. And bottl
 Questions are
 </p>
 <ul class="org-ul">
-<li>Do we need official translator of Geburtsurkunde for Birth Certificate?
-</li>
-<li>Don't we have any easier way to finish Baby's Citizen Registration without Passport?
-</li>
+<li>Do we need official translator of Geburtsurkunde for Birth Certificate?</li>
+<li>Don't we have any easier way to finish Baby's Citizen Registration without Passport?</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-sec-3" class="outline-2">
-<h2 id="sec-3">How to prepare Parent's birth proof (Familienbuch)</h2>
-<div class="outline-text-2" id="text-3">
-</div><div id="outline-container-sec-3-1" class="outline-3">
-<h3 id="sec-3-1">When Your family in your original country can help</h3>
-<div class="outline-text-3" id="text-3-1">
+<div id="outline-container-org2bec046" class="outline-2">
+<h2 id="org2bec046">How to prepare Parent's birth proof (Familienbuch)</h2>
+<div class="outline-text-2" id="text-org2bec046">
+</div>
+<div id="outline-container-org616ec2b" class="outline-3">
+<h3 id="org616ec2b">When Your family in your original country can help</h3>
+<div class="outline-text-3" id="text-org616ec2b">
 
 <div class="figure">
 <p><img src="images/en_sequence_with_family.png" alt="en_sequence_with_family.png" />
@@ -296,9 +278,9 @@ Questions are
 </div>
 </div>
 
-<div id="outline-container-sec-3-2" class="outline-3">
-<h3 id="sec-3-2">When You do by yourself</h3>
-<div class="outline-text-3" id="text-3-2">
+<div id="outline-container-org2a4b6ff" class="outline-3">
+<h3 id="org2a4b6ff">When You do by yourself</h3>
+<div class="outline-text-3" id="text-org2a4b6ff">
 
 <div class="figure">
 <p><img src="images/en_sequence_self.png" alt="en_sequence_self.png" />
@@ -308,9 +290,9 @@ Questions are
 </div>
 </div>
 
-<div id="outline-container-sec-4" class="outline-2">
-<h2 id="sec-4">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-orgf670884" class="outline-2">
+<h2 id="orgf670884">Job title shows mindset, not position&#xa0;&#xa0;&#xa0;<span class="tag"><span class="tech">tech</span></span></h2>
+<div class="outline-text-2" id="text-orgf670884">
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">[2018-03-14 Wed]</span></span>
 </p>
@@ -321,9 +303,9 @@ Just for note. Job title is of course a position in the company, but one colleag
 </div>
 </div>
 
-<div id="outline-container-sec-5" class="outline-2">
-<h2 id="sec-5">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></h2>
-<div class="outline-text-2" id="text-5">
+<div id="outline-container-org926a8b5" class="outline-2">
+<h2 id="org926a8b5">Initial test&#xa0;&#xa0;&#xa0;<span class="tag"><span class="emacs">emacs</span>&#xa0;<span class="org">org</span></span></h2>
+<div class="outline-text-2" id="text-org926a8b5">
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">[2018-03-11 Sun]</span></span>
 </p>
@@ -340,26 +322,21 @@ Try to start using <a href="https://github.com/fniessen/org-html-themes">https:/
 </div>
 
 
-<div id="outline-container-sec-6" class="outline-2">
-<h2 id="sec-6">design pattern of pthread</h2>
-<div class="outline-text-2" id="text-6">
+<div id="outline-container-orgce11202" class="outline-2">
+<h2 id="orgce11202">design pattern of pthread</h2>
+<div class="outline-text-2" id="text-orgce11202">
 <ul class="org-ul">
 <li>worker - watcher model
 <ul class="org-ul">
 <li>normal case
 <ul class="org-ul">
-<li>how watcher detects worker finishes
-</li>
-</ul>
-</li>
+<li>how watcher detects worker finishes</li>
+</ul></li>
 <li>late case
 <ul class="org-ul">
-<li>how to kill the thread from watcher to worker
-</li>
-</ul>
-</li>
-</ul>
-</li>
+<li>how to kill the thread from watcher to worker</li>
+</ul></li>
+</ul></li>
 </ul>
 
 
@@ -369,9 +346,6 @@ Try to start using <a href="https://github.com/fniessen/org-html-themes">https:/
 </div>
 </div>
 </div>
-</div>
-<div id="postamble" class="status">
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

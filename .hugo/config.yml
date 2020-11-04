@@ -1,0 +1,168 @@
+# minify:
+#   disableXML: true
+#   minifyOutput: true
+
+# languages:
+#   en:
+
+# [[Menu.Main]]
+#     name: "Top"
+#     identifier: "top"
+#     url: "/"
+
+# [[Menu.Main]]
+#     name: "CV"
+#     identifier: "cv"
+#     url: "/cv/"
+
+# [[Menu.Main]]
+#     name: "Diary"
+#     identifier: "diary"
+#     url: "/diary/"
+
+# [[Menu.Main]]
+#     name: "Japanese"
+#     identifier: "ja"
+#     url: "/ja/"
+
+# [[Menu.Main]]
+#     name: "Experiments"
+#     identifier: "experiments"
+#     url: "/experiments/"
+
+baseURL: "https://iamhi.de"
+title: "hi.de"
+paginate: 4
+theme: hugo-PaperMod
+# enableInlineShortcodes: true
+# enableRobotsTXT: true
+
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Top
+          url: /
+          weight: 1
+        - name: CV
+          url: /cv
+          weight: 15
+        - name: Diary
+          url: /diary
+          weight: 3
+        - name: Japanese
+          url: /ja
+          weight: 8
+        # - name: Archives
+        #   url: /archives/
+        #   weight: 10
+        - name: Tags
+          url: /tags/
+          weight: 9
+
+  # l2:
+  #   languageName: "Lang2"
+  #   weight: 2
+  #   title: PaperModL2
+  #   profileMode:
+  #     enabled: true
+  #     title: PaperMod
+  #     # imageUrl: "#"
+  #     # imageTitle: my image
+  #     subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+  #     buttons:
+  #       - name: Blog
+  #         url: posts
+  #       - name: Tags
+  #         url: tags
+
+  # l3:
+  #   languageName: "Langrtl"
+  #   languagedirection: rtl
+  #   weight: 3
+  #   title: PaperMod RTL
+  #   homeInfoParams:
+  #     Title: "Hi there \U0001F44B"
+  #     Content: Welcome to RTL layout
+
+params:
+  env: production
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  author: Theme PaperMod
+  # author: ["Me", "You"] # multiple authors
+  ShowReadingTime: true
+  defaultTheme: auto
+  ShowShareButtons: true
+  displayFullLangName: true
+  # images: ""
+  # assets:
+  #   favicon: '<path / external url>'
+
+  profileMode:
+    enabled: true
+    title: "make all"
+    imageUrl: "/ox-hugo/words.png"
+    imageTitle: ""
+    # buttons:
+    #   - name: Archives
+    #     url: archives
+    #   - name: Tags
+    #     url: tags
+
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: >
+  #     Welcome to demo of hugo's theme PaperMod.
+
+  #     - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/camparijet"
+    # - name: stackoverflow
+    #   url: "#"
+    # - name: codepen
+    #   url: "#"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/hideki-takeoka-40435031/"
+    - name: github
+      url: "https://github.com/camparijet"
+    # - name: buymeacoffee
+    #   url: "https://www.buymeacoffee.com/adityatelange"
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

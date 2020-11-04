@@ -1,13 +1,12 @@
-#+TITLE: Camparijet
+#+TITLE: 日本語日記
+
 #+EXCLUDE_TAGS: private draft
 #+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil toc:t
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/readtheorg.css"/>
 #+HTML_HEAD: <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-#+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
+
+#+HUGO_BASE_DIR: ~/.camparijet.github.io/.hugo
+#+HUGO_SECTION: ja
+# #+HUGO_LOCALE: ja
 
 * 出産前に済ませておきたいお家のセットアップと買い物リスト
 
@@ -444,7 +443,7 @@
 
   とりあえず戸籍反映までに２ヶ月かかると見ておいた方がよさそうです。
 
-  #+BEGIN_SRC plantuml :file images/ja_sequence_baby_authorization.png :cmdline "-charset UTF-8"
+  #+BEGIN_SRC plantuml :file images/ja_sequence_baby_authorization.png
        box "日本"
        participant "親族" as Family
        participant "市役所" as origin

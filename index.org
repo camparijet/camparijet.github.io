@@ -1,26 +1,10 @@
 #+TITLE: Camparijet
+#+OPTIONS: author:nil 
 
-#+EXCLUDE_TAGS: private draft
-#+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil toc:t
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/htmlize.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/styles/readtheorg/css/readtheorg.css"/>
-#+HTML_HEAD: <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-#+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-#+HTML_HEAD: <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="/styles/lib/js/jquery.stickytableheaders.min.js"></script>
-#+HTML_HEAD: <script type="text/javascript" src="/styles/readtheorg/js/readtheorg.js"></script>
+#+HUGO_BASE_DIR: ~/.camparijet.github.io/.hugo
+#+HUGO_SECTION: ./
+#+EXPORT_FILE_NAME: _index
 
-* Diary
-  - [[file:diary/index.org][Diary]]
-  - [[file:ja/index.org][日本語日記]]
+# TODO <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-* Experiments
-  - [[file:experiments/index.html][Daily experiments and its result.]]
-
-* CV
-  - Refer [[file:cv/index.html][cv/index.html]]
-  - Refer [[file:cv/index.org][cv/index.org]]
-
-file:images/panono.png
-
-file:images/slack-icon.gif
+file:images/words.png

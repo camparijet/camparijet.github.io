@@ -1,3 +1,4 @@
 diary/*.png
 diary/*.jpg
 **/*.org_archive_*
+.hugo/public
