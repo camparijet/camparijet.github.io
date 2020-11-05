@@ -11,7 +11,8 @@ if ! git branch --list | grep gh-pages > /dev/null; then
     git checkout master
     git checkout --orphan gh-pages
     git reset --hard
-    git add CNAME
+    echo iamhi.de > CNAME
+    git add -f CNAME
     git commit --allow-empty -m "Initializing gh-pages branch"
     git push -f ${remote_repo_name} gh-pages
 fi
