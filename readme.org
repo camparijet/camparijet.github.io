@@ -1,2 +1,30 @@
 #+TITLE: Backstage
 #+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil toc:t
+
+* issues
+** hugo-PaperMod could not provide anchor link with the sentence in japanese
+
+   The source is here.
+   #+begin_src html
+     <a href="#%E3%81%8A%E3%82%80%E3%81%A4%E4%BA%A4%E6%8F%9B%E5%8F%B0">おむつ交換台</a>
+
+     <h3 id="おむつ交換台">おむつ交換台</h3>
+   #+end_src
+
+   #+begin_src js
+     function(e) {
+       e.preventDefault();
+       var id = this.getAttribute("href").substr(1);
+       document.querySelector(`[id='${id}']`).scrollIntoView({
+	 behavior: "smooth"
+       });
+     }
+   #+end_src
+
+   console output
+   #+begin_example
+   document.querySelector(`[id='%E3%81%8A%E3%82%80%E3%81%A4%E4%BA%A4%E6%8F%9B%E5%8F%B0']`)
+   null
+   document.querySelector(`[id='おむつ交換台']`)
+   <h3 id="おむつ交換台">
+   #+end_example
