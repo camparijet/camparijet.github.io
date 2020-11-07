@@ -42,5 +42,6 @@ if [[ ${build_for_local} != true ]]; then
     cd ${output_dir}
     git add --all
     git commit --no-verify -m "Publishing to gh-pages"
+    git push ${remote_repo_name} gh-pages
 fi
 cd ${hugo_base_dir}
