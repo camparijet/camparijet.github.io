@@ -166,3 +166,11 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+
+markup:
+  goldmark:
+    parser:
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      unsafe: true

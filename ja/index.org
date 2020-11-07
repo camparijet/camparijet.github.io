@@ -6,7 +6,7 @@
 
 #+HUGO_BASE_DIR: ~/.camparijet.github.io/.hugo
 #+HUGO_SECTION: ja
-# #+HUGO_LOCALE: ja
+#+HUGO_LOCALE: ja
 
 * 出産前に済ませておきたいお家のセットアップと買い物リスト
 
