@@ -8,6 +8,18 @@ draft = false
 
 <div class="heading">Table of Contents</div>
 
+- [生後６ヶ月から１年くらいまでで購入したもの](#生後６ヶ月から１年くらいまでで購入したもの)
+    - [冬用に購入したもの](#冬用に購入したもの)
+        - [ベビーカーカバー](#ベビーカーカバー)
+    - [雨用に購入したもの](#雨用に購入したもの)
+        - [レインコート](#レインコート)
+        - [長くつ](#長くつ)
+    - [大脱走対策で購入したもの](#大脱走対策で購入したもの)
+        - [フェンス](#フェンス)
+- [生後６ヶ月目くらいまでで購入したもの](#生後６ヶ月目くらいまでで購入したもの)
+    - [ベビーカー](#ベビーカー)
+    - [床敷き](#床敷き)
+    - [フェンス](#フェンス)
 - [出産前に済ませておきたいお家のセットアップと買い物リスト](#出産前に済ませておきたいお家のセットアップと買い物リスト)
     - [ベッド (Bett)](#ベッド--bett)
         - [本体](#本体)
@@ -54,10 +66,71 @@ draft = false
 
 
 
+## 生後６ヶ月から１年くらいまでで購入したもの {#生後６ヶ月から１年くらいまでで購入したもの}
+
+
+### 冬用に購入したもの {#冬用に購入したもの}
+
+
+#### ベビーカーカバー {#ベビーカーカバー}
+
+<a href="https://www.amazon.de/-/en/gp/product/B075FTGK93/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=berlinbaby01-21&linkId=33560ee3b8f5533c4806382eab5177a6&language=en_GB" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075FTGK93&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=berlinbaby01-21&language=en_GB" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=berlinbaby01-21&language=en_GB&l=li2&o=3&a=B075FTGK93" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+寒そうだったので購入。純正品とても良いです。
+
+
+### 雨用に購入したもの {#雨用に購入したもの}
+
+
+#### レインコート {#レインコート}
+
+
+#### 長くつ {#長くつ}
+
+
+### 大脱走対策で購入したもの {#大脱走対策で購入したもの}
+
+
+#### フェンス {#フェンス}
+
+<a href="https://www.amazon.de/-/en/gp/product/B079NGC59L/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=berlinbaby01-21&linkId=a515a242875045ea63d394217d38986b&language=en_GB" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079NGC59L&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=berlinbaby01-21&language=en_GB" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=berlinbaby01-21&language=en_GB&l=li2&o=3&a=B079NGC59L" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+ころころからハイハイに進化してから大脱走が始まるようになり購入。奥のおもちゃを活用して閉めても泣かないようになりました。他にも寝相から、ベッドで寝ては落ちかけたり、床で寝ては隙間にはいり込んだりする子だったので、これを工夫して雑魚寝したらだいぶ楽になりました。壁を追加すると大人も中で寝れるようになりました。
+
+
+## 生後６ヶ月目くらいまでで購入したもの {#生後６ヶ月目くらいまでで購入したもの}
+
+
+### ベビーカー {#ベビーカー}
+
+<a target="_blank"  href="https://www.amazon.de/gp/product/B085NWWCZG/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B085NWWCZG&linkCode=as2&tag=berlinbaby01-21&linkId=7cb785ceede0f65478787f8f8901747a"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=DE&ASIN=B085NWWCZG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=berlinbaby01-21" ></a><img src="//ir-de.amazon-adsystem.com/e/ir?t=berlinbaby01-21&l=am2&o=3&a=B085NWWCZG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+最初に買ったベビーカーでは階段の登り降りが大変ですぐに使わなくなってしまいました。
+
+とはいえ散歩に出るようになると、抱っこ紐では限界があります。
+
+省スペースで軽量なものを探した結果、以前大先輩に教えていただいた"Babyzen YOYO² buggy 6+ aqua Gestell schwarz"を買うに至りました。
+
+買う前に店舗で試してみることをおすすめします。
+
+
+### 床敷き {#床敷き}
+
+<a href="https://www.amazon.de/-/en/gp/product/B07PPR94Y3/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=berlinbaby01-21&linkId=df102c60dfd76b5dd803b00bffd3cd5b&language=en_GB" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PPR94Y3&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=berlinbaby01-21&language=en_GB" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=berlinbaby01-21&language=en_GB&l=li2&o=3&a=B07PPR94Y3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+たこやき君がころころ転がる用になってきて、Bretterbodenとの相性が悪そうだったので購入を決意。
+
+
+### フェンス {#フェンス}
+
+<a href="https://www.amazon.de/gp/product/B07KKDDYFL/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=berlinbaby01-21&linkId=8b2f5233b22581a273b896bd3ca8cb0e&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KKDDYFL&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=berlinbaby01-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=berlinbaby01-21&language=de_DE&l=li2&o=3&a=B07KKDDYFL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+ころころ転がり始める程度で購入しました。結果的に歩き始める前までの遊び場になっていましたね。捕まり運動にちょうど良かったみたいです。また６角形で、中の子供から見えないところが比較的多く、人形でいないいないばーするのに調度良かったです。
+
+
 ## 出産前に済ませておきたいお家のセットアップと買い物リスト {#出産前に済ませておきたいお家のセットアップと買い物リスト}
 
-出産は突然でしたが、あっという間に１ヶ月が無事に終わりました。
-パートナーの尽力により、たこやき君も日々すくすく成長していて安心です。
+出産は突然でしたが、あっという間に１ヶ月が無事に終わりました。パートナーの尽力により、たこやき君も日々すくすく成長していて安心です。
 
 忘れないうちに、もしも過去に遡って出産前に用意しておくなら用意しておいたであろうリストをおいておきます。
 
@@ -97,8 +170,7 @@ draft = false
 
 ### ベッド (Bett) {#ベッド--bett}
 
-たこやき君が日々の大半を過ごしている場所です。しかし思った以上にベッドの上では寝てくれないという。
-日々工夫しているのですが、たこやき君の変化が著しく、追いつくのがなかなか大変。。
+たこやき君が日々の大半を過ごしている場所です。しかし思った以上にベッドの上では寝てくれないという。日々工夫しているのですが、たこやき君の変化が著しく、追いつくのがなかなか大変。。
 
 
 #### 本体 {#本体}
@@ -109,9 +181,7 @@ draft = false
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B078KB8Y9R&asins=B078KB8Y9R&linkId=f8e3c0143947b149808bdfa909a62f17&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe>
 
-扉がないベッドの方が赤ん坊を入れやすいかと思い、左のような扉なしのものを探していました。しかし、実際使ってみると親ベッドに座りながら赤ん坊を持ち運ぶ必要があり、想像以上に大変でした。
-そして生後一ヶ月は別に親ベッドにくっつけなくても寝てくれるようです。
-むしろ扉がないベッドから入れるのがでこちらのほうが便利で良かったかなーと後悔しています。そんなわけでふたつ目を貼っておきます。
+扉がないベッドの方が赤ん坊を入れやすいかと思い、左のような扉なしのものを探していました。しかし、実際使ってみると親ベッドに座りながら赤ん坊を持ち運ぶ必要があり、想像以上に大変でした。そして生後一ヶ月は別に親ベッドにくっつけなくても寝てくれるようです。むしろ扉がないベッドから入れるのがでこちらのほうが便利で良かったかなーと後悔しています。そんなわけでふたつ目を貼っておきます。
 
 
 #### マットレス {#マットレス}
@@ -213,9 +283,7 @@ draft = false
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=berlinbaby0d-21&language=en_GB&marketplace=amazon&region=DE&placement=B0047O0LKE&asins=B0047O0LKE&linkId=390d55fb46abb169f9e98601c0171530&show_border=true&link_opens_in_new_window=true"></iframe>
 
-赤ちゃんが冬に生まれるなら一考の価値あり。
-１０−２月は間違いなく気温も湿度も低い気候になるので、暖房と加湿器は必須ではないでしょうか。
-とくに両親は赤ちゃんと同じ部屋で過ごす時間が多くなるので、風邪やインフルエンザ対策としても利用しています。
+赤ちゃんが冬に生まれるなら一考の価値あり。１０−２月は間違いなく気温も湿度も低い気候になるので、暖房と加湿器は必須ではないでしょうか。とくに両親は赤ちゃんと同じ部屋で過ごす時間が多くなるので、風邪やインフルエンザ対策としても利用しています。
 
 
 ### 紙おむつ {#紙おむつ}
@@ -280,8 +348,7 @@ PRIMARKがおすすめらしいのですが、未だに行く機会が見つけ�
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=berlinbaby0d-21&marketplace=amazon&region=DE&placement=B01FRCB2CK&asins=B01FRCB2CK&linkId=13fb5a62774dd2d61f0b321576eb181a&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
 </iframe>
 
-巻いてよし、だっこ時の服ならしによし、寝るときにかけてよしと出産直後から大活躍したおくるみ。
-早めに購入して確実に出産入院バックに入れておきたいところ。
+巻いてよし、だっこ時の服ならしによし、寝るときにかけてよしと出産直後から大活躍したおくるみ。早めに購入して確実に出産入院バックに入れておきたいところ。
 
 
 #### 幼児用洗濯洗剤 {#幼児用洗濯洗剤}
@@ -372,6 +439,8 @@ NUKおすすめ。
 
 置く場所に困るサイズなのですが、このくらいのほうが安心して使えます。あくまで個人の感想です。
 
+<span class="timestamp-wrapper"><span class="timestamp">[2020-11-07 Sat] </span></span> 追記: 早々に買い直したので[その商品](#ベビーカー)も追加しました。
+
 
 #### 抱っこ紐 {#抱っこ紐}
 
@@ -444,8 +513,7 @@ Geburtsurkundeの取得には下記を提出する必要があります。
 -   両親のVerheiratekunde
 -   上記の原本及びそのドイツ語訳
 
-たまたま今回BerlinのStandesamt（出生局）の人が国別マニュアルを見せてくれまして。
-それによると、日本人の場合、資料上記３つめの「原本」は「両親世帯のアポスティーユ付きの戸籍謄本」でした。
+たまたま今回BerlinのStandesamt（出生局）の人が国別マニュアルを見せてくれまして。それによると、日本人の場合、資料上記３つめの「原本」は「両親世帯のアポスティーユ付きの戸籍謄本」でした。
 
 また、GeburtsurkundeとVerheiratekundeは在ドイツ日本大使館に戸籍謄本を持参すると作ってもらえます。これら２つの書類発行は日本国で閉じた手続きのため、アポスティーユの有無は関係ありません。
 
