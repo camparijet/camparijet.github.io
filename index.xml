@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Top on hi.de</title>
+    <link>https://iamhi.de/</link>
+    <description>Recent content in Top on hi.de</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://iamhi.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diary</title>
+      <link>https://iamhi.de/diary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/diary/</guid>
+      <description>Table of Contents  introduce wifi direct between PC and Android under sshfs  structure speed test between phone and PC sshfs brutual shutdown cause other problems  behavior difference between wifi and usb tramp on termux:hotfix:     How to authorize my Baby to public Service in Germany How to prepare Parent&amp;rsquo;s birth proof (Familienbuch)  When Your family in your original country can help When You do by yourself   Job title shows mindset, not position:tech: Initial test:emacs:org: design pattern of pthread    introduce wifi direct between PC and Android under sshfs Usually I write memo in files in the storage under my Android phone.</description>
+    </item>
+    
+    <item>
+      <title>Experiments</title>
+      <link>https://iamhi.de/experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/experiments/</guid>
+      <description>Table of Contents  Water hardness test  Overview Test environment Result Conclusioin      Water hardness test Overview I tested with the following product of water filter, comparing to Tube water (control group).
+ BRITA Classic type PearlCo  Test environment As a environment we use a water case from PearlCo and this reagent for water hardness.
+Test protocol is as follows :
+ Repeat followings for each group  Fill out test tube with filtered water to 5 [ml] mark Add titration solution drop by drop the while swirling test tube Count drops until color changes from RED to GREEN   Since 1 drop of reagent express 1 degree dH (see the measurement), calculate each hardness.</description>
+    </item>
+    
+    <item>
+      <title>Hideki Takeoka (aka. camparijet)</title>
+      <link>https://iamhi.de/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/cv/</guid>
+      <description>Table of Contents  Summary Job History  Senior Software Architect at Smartfrog GmbH Head of Firmware Development at Panono GmbH Data Analyst  Recruit Lifestyle Co., Ltd:   Exploratory IT Human Resources Project Information technology Promotion Agency ,Japan RIKEN: Programmer HEARTBEATS Corporation: Server monitoring Operator   Contribution  Development  Firefox   Security Report  Malcious ad via ad network     Education  The University of Tokyo: Master Degree (Information Technology)  highspeed throwable camera system   The University of Tokyo: Bachelor (Engineering)   links    Summary I&amp;rsquo;m software engineer with robotics and mathematics background.</description>
+    </item>
+    
+    <item>
+      <title>日本語日記</title>
+      <link>https://iamhi.de/ja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/ja/</guid>
+      <description>Table of Contents  出産前に済ませておきたいお家のセットアップと買い物リスト  ベッド (Bett)  本体 マットレス シーツ 毛布   おむつ交換台  マットレス 交換用紙シート おむつ用ゴミ箱 ウェットティッシュ   体温計 加湿器 紙おむつ 洋服  普段着 帽子 スリーピングバック おくるみ 幼児用洗濯洗剤   ミルク関連  搾乳機 粉ミルク 哺乳瓶 幼児用食器洗剤 煮沸消毒用の鍋   タクシー、チャイルドシート 、ベビーカー、抱っこ紐  チャイルドシート＋ベビーカー 抱っこ紐   お風呂用品  お風呂 温度計 泡立て用スポンジ かけ湯用鍋     ドイツで日本人同士の両親から子供が生まれた場合の手引 Geburtsurkunde用の戸籍謄本（全訳）:ドイツで日本人同士の両親から子供が生まれた場合の諸手続き: 子供のパスポートの取得手続:ドイツで日本人同士の両親から子供が生まれた場合の諸手続き: 戸籍謄本を取得して両親のGeburtsurkundeを作る手続き:baby:  日本の親族に手伝ってもらえる場合 自分でやる場合      出産前に済ませておきたいお家のセットアップと買い物リスト 出産は突然でしたが、あっという間に１ヶ月が無事に終わりました。 パートナーの尽力により、たこやき君も日々すくすく成長していて安心です。</description>
+    </item>
+    
+  </channel>
+</rss>

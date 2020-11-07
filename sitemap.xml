@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://iamhi.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/diary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/experiments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/ja/</loc>
+  </url>
+  
+</urlset>
