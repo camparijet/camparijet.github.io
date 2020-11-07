@@ -2,6 +2,11 @@
 #+OPTIONS: author:nil creator:nil num:nil todo:nil ^:nil timestamp:nil toc:t
 
 * issues
+  - favicon
+    the current is default "P" icon
+  - tag
+  - multiple
+
 ** hugo-PaperMod could not provide anchor link with the sentence in japanese
 
    The source is here.

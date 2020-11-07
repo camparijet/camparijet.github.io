@@ -1,38 +1,6 @@
-# minify:
-#   disableXML: true
-#   minifyOutput: true
-
-# languages:
-#   en:
-
-# [[Menu.Main]]
-#     name: "Top"
-#     identifier: "top"
-#     url: "/"
-
-# [[Menu.Main]]
-#     name: "CV"
-#     identifier: "cv"
-#     url: "/cv/"
-
-# [[Menu.Main]]
-#     name: "Diary"
-#     identifier: "diary"
-#     url: "/diary/"
-
-# [[Menu.Main]]
-#     name: "Japanese"
-#     identifier: "ja"
-#     url: "/ja/"
-
-# [[Menu.Main]]
-#     name: "Experiments"
-#     identifier: "experiments"
-#     url: "/experiments/"
-
 baseURL: "https://iamhi.de"
 title: "hi.de"
-paginate: 4
+paginate: 10
 theme: hugo-PaperMod
 # enableInlineShortcodes: true
 # enableRobotsTXT: true
@@ -55,11 +23,11 @@ languages:
         - name: CV
           url: /cv
           weight: 15
-        - name: Diary
-          url: /diary
+        - name: Blog
+          url: /blog
           weight: 3
-        - name: Japanese
-          url: /ja
+        - name: ja-JP
+          url: /japanese-blog
           weight: 8
         # - name: Archives
         #   url: /archives/
@@ -135,8 +103,7 @@ params:
       url: "https://www.linkedin.com/in/hideki-takeoka-40435031/"
     - name: github
       url: "https://github.com/camparijet"
-    # - name: buymeacoffee
-    #   url: "https://www.buymeacoffee.com/adityatelange"
+    # - name: dotpict #TODO
 
 # taxonomies:
 #   category: categories
@@ -146,7 +113,7 @@ params:
 #     - emacs
 privacy:
   vimeo:
-    disabled: false
+    disabled: true
     simple: true
 
   twitter:
@@ -159,7 +126,7 @@ privacy:
     simple: true
 
   youtube:
-    disabled: false
+    disabled: true
     privacyEnhanced: true
 
 services:
