@@ -1,53 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Top on hi.de</title>
-    <link>https://iamhi.de/</link>
-    <description>Recent content in Top on hi.de</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 May 2019 17:25:00 +0200</lastBuildDate><atom:link href="https://iamhi.de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>introduce wifi direct between PC and Android under sshfs</title>
-      <link>https://iamhi.de/blog/introduce-wifi-direct-between-pc-and-android-under-sshfs/</link>
-      <pubDate>Sat, 04 May 2019 17:25:00 +0200</pubDate>
-      
-      <guid>https://iamhi.de/blog/introduce-wifi-direct-between-pc-and-android-under-sshfs/</guid>
-      <description>Table of Contents  structure speed test between phone and PC sshfs brutual shutdown cause other problems  behavior difference between wifi and usb tramp on termux:hotfix:      Usually I write memo in files in the storage under my Android phone.
-Previously I use usb-tethering between Android phone and PC connection.
-structure mount sshfs + wifi direct
-  speed test between phone and PC wifi direct</description>
-    </item>
-    
-    <item>
-      <title>design pattern of pthread</title>
-      <link>https://iamhi.de/blog/design-pattern-of-pthread/</link>
-      <pubDate>Sun, 11 Mar 2018 21:55:00 +0100</pubDate>
-      
-      <guid>https://iamhi.de/blog/design-pattern-of-pthread/</guid>
-      <description> worker - watcher model  normal case  how watcher detects worker finishes   late case  how to kill the thread from watcher to worker        </description>
-    </item>
-    
-    <item>
-      <title>Diary</title>
-      <link>https://iamhi.de/diary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/diary/</guid>
-      <description>Table of Contents  introduce wifi direct between PC and Android under sshfs  structure speed test between phone and PC sshfs brutual shutdown cause other problems  behavior difference between wifi and usb tramp on termux:hotfix:     How to authorize my Baby to public Service in Germany How to prepare Parent&amp;rsquo;s birth proof (Familienbuch)  When Your family in your original country can help When You do by yourself   Job title shows mindset, not position:tech: Initial test:emacs:org: design pattern of pthread    introduce wifi direct between PC and Android under sshfs Usually I write memo in files in the storage under my Android phone.</description>
-    </item>
-    
-    <item>
-      <title>Experiments</title>
-      <link>https://iamhi.de/experiments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/experiments/</guid>
-      <description>Table of Contents  Water hardness test  Overview Test environment Result Conclusioin      Water hardness test Overview I tested with the following product of water filter, comparing to Tube water (control group).
- BRITA Classic type PearlCo  Test environment As a environment we use a water case from PearlCo and this reagent for water hardness.
-Test protocol is as follows :
- Repeat followings for each group  Fill out test tube with filtered water to 5 [ml] mark Add titration solution drop by drop the while swirling test tube Count drops until color changes from RED to GREEN   Since 1 drop of reagent express 1 degree dH (see the measurement), calculate each hardness.</description>
-    </item>
-    
+    <title>japanese on hi.de</title>
+    <link>https://iamhi.de/tags/japanese/</link>
+    <description>Recent content in japanese on hi.de</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://iamhi.de/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geburtsurkunde用の戸籍謄本（全訳）</title>
       <link>https://iamhi.de/japanese-blog/geburtsurkunde%E7%94%A8%E3%81%AE%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E5%85%A8%E8%A8%B3/</link>
@@ -64,58 +21,6 @@ https://www.mofa.go.jp/mofaj/toko/page22%5F000607.html
 Standesamtではアポスティーユの認証期間（３ヶ月）に関して厳しく見ている様子はありませんでした。
 こちらで日本人同士で結婚した場合、必ずアポスティーユ付きの戸籍謄本が取得しているので、捨てずに使えということなんでしょうかね。
 出産後にすぐにこれらの書類を提出できると後が楽なので、予定日の３ヶ月前から動き出しておくことを強くおすすめします。</description>
-    </item>
-    
-    <item>
-      <title>Hideki Takeoka (aka. camparijet)</title>
-      <link>https://iamhi.de/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/cv/</guid>
-      <description>Table of Contents  Summary Job History  Senior Software Architect at Smartfrog GmbH Head of Firmware Development at Panono GmbH Data Analyst  Recruit Lifestyle Co., Ltd:   Exploratory IT Human Resources Project Information technology Promotion Agency ,Japan RIKEN: Programmer HEARTBEATS Corporation: Server monitoring Operator   Contribution  Development  Firefox   Security Report  Malcious ad via ad network     Education  The University of Tokyo: Master Degree (Information Technology)  highspeed throwable camera system   The University of Tokyo: Bachelor (Engineering)   links    Summary I&amp;rsquo;m software engineer with robotics and mathematics background.</description>
-    </item>
-    
-    <item>
-      <title>How to authorize my Baby to public Service in Germany</title>
-      <link>https://iamhi.de/blog/how-to-authorize-my-baby-to-public-service-in-germany/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/blog/how-to-authorize-my-baby-to-public-service-in-germany/</guid>
-      <description>For instance, it requires your Baby&amp;rsquo;s identificatin number of German citizen and Residence Permission to access following service
- Kindergeld Elterngeld KITA Guteschein  Following shows actual flow from birth event to finish all conditinos.
-It seems to take 3 months at least, if your original country is Japan. And bottle-neck is creating &amp;ldquo;Family Registration&amp;rdquo; record in Japan. That sounds a little bit funny.
-  Questions are
- Do we need official translator of Geburtsurkunde for Birth Certificate?</description>
-    </item>
-    
-    <item>
-      <title>How to prepare Parent&#39;s birth proof (Familienbuch)</title>
-      <link>https://iamhi.de/blog/how-to-prepare-parent-s-birth-proof-familienbuch-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/blog/how-to-prepare-parent-s-birth-proof-familienbuch-/</guid>
-      <description> Table of Contents  When Your family in your original country can help When You do by yourself    When Your family in your original country can help   When You do by yourself   </description>
-    </item>
-    
-    <item>
-      <title>Initial test</title>
-      <link>https://iamhi.de/blog/initial-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/blog/initial-test/</guid>
-      <description>[2018-03-11 Sun]
-Today is 7-year-anniversary for Fukushima Earthquake. Berlin weather radically changes today, now 16 cel degree. It&amp;rsquo;s crazy because it was -10 cel degree.
-Try to start using https://github.com/fniessen/org-html-themes.</description>
-    </item>
-    
-    <item>
-      <title>Job title shows mindset, not position</title>
-      <link>https://iamhi.de/blog/job-title-shows-mindset-not-position/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iamhi.de/blog/job-title-shows-mindset-not-position/</guid>
-      <description>[2018-03-14 Wed]
-Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.</description>
     </item>
     
     <item>

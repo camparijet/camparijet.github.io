@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on hi.de</title>
+    <link>https://iamhi.de/tags/tech/</link>
+    <description>Recent content in tech on hi.de</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://iamhi.de/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job title shows mindset, not position</title>
+      <link>https://iamhi.de/blog/job-title-shows-mindset-not-position/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/blog/job-title-shows-mindset-not-position/</guid>
+      <description>[2018-03-14 Wed]
+Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.</description>
+    </item>
+    
+  </channel>
+</rss>

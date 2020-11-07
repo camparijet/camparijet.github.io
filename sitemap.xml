@@ -3,6 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iamhi.de/blog/</loc>
+    <lastmod>2019-05-04T17:25:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/blog/introduce-wifi-direct-between-pc-and-android-under-sshfs/</loc>
+    <lastmod>2019-05-04T17:25:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/</loc>
+    <lastmod>2019-05-04T17:25:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/blog/design-pattern-of-pthread/</loc>
+    <lastmod>2018-03-11T21:55:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/tags/baby/</loc>
+  </url>
+  
+  <url>
     <loc>https://iamhi.de/categories/</loc>
   </url>
   
@@ -11,7 +35,15 @@
   </url>
   
   <url>
+    <loc>https://iamhi.de/tags/emacs/</loc>
+  </url>
+  
+  <url>
     <loc>https://iamhi.de/experiments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/geburtsurkunde%E7%94%A8%E3%81%AE%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E5%85%A8%E8%A8%B3/</loc>
   </url>
   
   <url>
@@ -19,15 +51,75 @@
   </url>
   
   <url>
+    <loc>https://iamhi.de/blog/how-to-authorize-my-baby-to-public-service-in-germany/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/blog/how-to-prepare-parent-s-birth-proof-familienbuch-/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/blog/initial-test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/tags/ja/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/tags/japanese/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/blog/job-title-shows-mindset-not-position/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/tags/org/</loc>
+  </url>
+  
+  <url>
     <loc>https://iamhi.de/tags/</loc>
   </url>
   
   <url>
-    <loc>https://iamhi.de/</loc>
+    <loc>https://iamhi.de/tags/tech/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/%E3%83%89%E3%82%A4%E3%83%84%E3%81%A7%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%8C%E5%A3%AB%E3%81%AE%E4%B8%A1%E8%A6%AA%E3%81%8B%E3%82%89%E5%AD%90%E4%BE%9B%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E6%89%8B%E5%BC%95/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/tags/%E3%83%89%E3%82%A4%E3%83%84%E3%81%A7%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%8C%E5%A3%AB%E3%81%AE%E4%B8%A1%E8%A6%AA%E3%81%8B%E3%82%89%E5%AD%90%E4%BE%9B%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E8%AB%B8%E6%89%8B%E7%B6%9A%E3%81%8D/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/%E5%87%BA%E7%94%A3%E5%89%8D%E3%81%AB%E6%B8%88%E3%81%BE%E3%81%9B%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%81%8A%E5%AE%B6%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%A8%E8%B2%B7%E3%81%84%E7%89%A9%E3%83%AA%E3%82%B9%E3%83%88/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/%E5%AD%90%E4%BE%9B%E3%81%AE%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E5%8F%96%E5%BE%97%E6%89%8B%E7%B6%9A/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/%E6%88%B8%E7%B1%8D%E8%AC%84%E6%9C%AC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E4%B8%A1%E8%A6%AA%E3%81%AEgeburtsurkunde%E3%82%92%E4%BD%9C%E3%82%8B%E6%89%8B%E7%B6%9A%E3%81%8D/</loc>
   </url>
   
   <url>
     <loc>https://iamhi.de/ja/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/%E7%94%9F%E5%BE%8C%EF%BC%96%E3%83%B6%E6%9C%88%E3%81%8B%E3%82%89%EF%BC%91%E5%B9%B4%E3%81%A7%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iamhi.de/japanese-blog/%E7%94%9F%E5%BE%8C%EF%BC%96%E3%83%B6%E6%9C%88%E7%9B%AE%E3%81%8F%E3%82%89%E3%81%84%E3%81%BE%E3%81%A7%E3%81%A7%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE/</loc>
   </url>
   
 </urlset>

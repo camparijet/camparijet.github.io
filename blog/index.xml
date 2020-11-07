@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on hi.de</title>
+    <link>https://iamhi.de/blog/</link>
+    <description>Recent content in Blogs on hi.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 May 2019 17:25:00 +0200</lastBuildDate><atom:link href="https://iamhi.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>introduce wifi direct between PC and Android under sshfs</title>
+      <link>https://iamhi.de/blog/introduce-wifi-direct-between-pc-and-android-under-sshfs/</link>
+      <pubDate>Sat, 04 May 2019 17:25:00 +0200</pubDate>
+      
+      <guid>https://iamhi.de/blog/introduce-wifi-direct-between-pc-and-android-under-sshfs/</guid>
+      <description>Table of Contents  structure speed test between phone and PC sshfs brutual shutdown cause other problems  behavior difference between wifi and usb tramp on termux:hotfix:      Usually I write memo in files in the storage under my Android phone.
+Previously I use usb-tethering between Android phone and PC connection.
+structure mount sshfs + wifi direct
+  speed test between phone and PC wifi direct</description>
+    </item>
+    
+    <item>
+      <title>design pattern of pthread</title>
+      <link>https://iamhi.de/blog/design-pattern-of-pthread/</link>
+      <pubDate>Sun, 11 Mar 2018 21:55:00 +0100</pubDate>
+      
+      <guid>https://iamhi.de/blog/design-pattern-of-pthread/</guid>
+      <description> worker - watcher model  normal case  how watcher detects worker finishes   late case  how to kill the thread from watcher to worker        </description>
+    </item>
+    
+    <item>
+      <title>How to authorize my Baby to public Service in Germany</title>
+      <link>https://iamhi.de/blog/how-to-authorize-my-baby-to-public-service-in-germany/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/blog/how-to-authorize-my-baby-to-public-service-in-germany/</guid>
+      <description>For instance, it requires your Baby&amp;rsquo;s identificatin number of German citizen and Residence Permission to access following service
+ Kindergeld Elterngeld KITA Guteschein  Following shows actual flow from birth event to finish all conditinos.
+It seems to take 3 months at least, if your original country is Japan. And bottle-neck is creating &amp;ldquo;Family Registration&amp;rdquo; record in Japan. That sounds a little bit funny.
+  Questions are
+ Do we need official translator of Geburtsurkunde for Birth Certificate?</description>
+    </item>
+    
+    <item>
+      <title>How to prepare Parent&#39;s birth proof (Familienbuch)</title>
+      <link>https://iamhi.de/blog/how-to-prepare-parent-s-birth-proof-familienbuch-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/blog/how-to-prepare-parent-s-birth-proof-familienbuch-/</guid>
+      <description> Table of Contents  When Your family in your original country can help When You do by yourself    When Your family in your original country can help   When You do by yourself   </description>
+    </item>
+    
+    <item>
+      <title>Initial test</title>
+      <link>https://iamhi.de/blog/initial-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/blog/initial-test/</guid>
+      <description>[2018-03-11 Sun]
+Today is 7-year-anniversary for Fukushima Earthquake. Berlin weather radically changes today, now 16 cel degree. It&amp;rsquo;s crazy because it was -10 cel degree.
+Try to start using https://github.com/fniessen/org-html-themes.</description>
+    </item>
+    
+    <item>
+      <title>Job title shows mindset, not position</title>
+      <link>https://iamhi.de/blog/job-title-shows-mindset-not-position/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iamhi.de/blog/job-title-shows-mindset-not-position/</guid>
+      <description>[2018-03-14 Wed]
+Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.</description>
+    </item>
+    
+  </channel>
+</rss>
