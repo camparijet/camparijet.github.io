@@ -138,11 +138,12 @@ params:
     # - name: buymeacoffee
     #   url: "https://www.buymeacoffee.com/adityatelange"
 
-taxonomies:
-  category: categories
-  tag: tags
-  series: series
-
+# taxonomies:
+#   category: categories
+#   tag: tags
+#   series: series
+#   tags:
+#     - emacs
 privacy:
   vimeo:
     disabled: false

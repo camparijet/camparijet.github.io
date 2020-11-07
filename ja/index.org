@@ -7,6 +7,7 @@
 #+HUGO_BASE_DIR: ~/.camparijet.github.io/.hugo
 #+HUGO_SECTION: ja
 #+HUGO_LOCALE: ja
+#+FILE_TAG: japanese
 
 * 生後６ヶ月から１年くらいまでで購入したもの
 
