@@ -1,5 +1,6 @@
 +++
 title = "日本語日記"
+tags = ["japanese", "ja"]
 draft = false
 +++
 
