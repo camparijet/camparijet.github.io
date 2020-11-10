@@ -1,5 +1,6 @@
 +++
-title = "How to authorize my Baby to public Service in Germany"
+title = "Birth Registration for public services in Germany"
+date = 2018-12-08T22:00:00+01:00
 draft = false
 +++
 

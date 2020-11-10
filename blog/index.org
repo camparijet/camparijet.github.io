@@ -113,7 +113,8 @@
 
     I feel this was so slow not reliable enough unfortunately.
 
-* How to authorize my Baby to public Service in Germany
+* DONE Birth Registration for public services in Germany
+  CLOSED: [2018-12-08 Sat 22:00]
   :PROPERTIES:
   :EXPORT_FILE_NAME: How-to-authorize-my-Baby-to-public-Service-in-Germany
   :END:
@@ -172,15 +173,8 @@
   - Do we need official translator of Geburtsurkunde for Birth Certificate?
   - Don't we have any easier way to finish Baby's Citizen Registration without Passport?
 
-* Job title shows mindset, not position                           :tech:
-  :PROPERTIES:
-  :EXPORT_FILE_NAME: Job-title-shows-mindset---not-position
-  :END:
-  [2018-03-14 Wed]
-
-  Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.
-
-* How to prepare Parent's birth proof (Familienbuch)
+* DONE How to prepare Parent's birth proof (Familienbuch)
+  CLOSED: [2018-11-12 Mon 16:26]
   :PROPERTIES:
   :EXPORT_FILE_NAME: How-to-prepare-Parent--s-birth-proof---Familienbuch--
   :END:
@@ -243,12 +237,19 @@
   #+RESULTS:
   [[file:images/en_sequence_self.png]]
 
-* Initial test                                               :emacs:org:
+* DONE Job title shows mindset, not position                           :tech:
+  CLOSED: [2018-03-14 Wed 16:32]
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: Job-title-shows-mindset---not-position
+  :END:
+
+  Just for note. Job title is of course a position in the company, but one colleague tells a junior in his team that since companies have various structure, same name positions have various roles. So It is mind-set that is made common among the company by title.
+
+* DONE Initial test                                               :emacs:org:
+  CLOSED: [2018-03-11 Sun 16:33]
   :PROPERTIES:
   :EXPORT_FILE_NAME: Initial-test
   :END:
-
-  [2018-03-11 Sun]
 
   Today is 7-year-anniversary for Fukushima Earthquake.
   Berlin weather radically changes today, now 16 cel degree. It's crazy because it was -10 cel degree.

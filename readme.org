@@ -6,11 +6,15 @@
     the current is default "P" icon
   - [X] tag
   - [X] multiple article
-  - [ ] datetime
+  - [X] datetime
+  - [ ] setup header images
+    - https://github.com/kaushalmodi/ox-hugo/blob/master/test/site/content-org/all-posts.org#header-image-using-resources
+    - https://ox-hugo.scripter.co/test/posts/header-image-using-resources/
+  - [ ] Cleanup Japanese article for baby stuff
   - [ ] GA template in hugo
     - https://m1yam0t0.com/posts/2020/03/setting-google-analytics/
     - https://gohugo.io/templates/internal/
-  - [ ] Cleanup Japanese article for baby stuff
+
 
 ** hugo-PaperMod could not provide anchor link with the sentence in japanese
 

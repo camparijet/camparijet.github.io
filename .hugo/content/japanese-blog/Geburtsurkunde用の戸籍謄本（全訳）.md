@@ -1,5 +1,6 @@
 +++
 title = "Geburtsurkunde用の戸籍謄本（全訳）"
+date = 2019-01-12T17:38:00+01:00
 tags = ["japanese", "ja", "ドイツで日本人同士の両親から子供が生まれた場合の諸手続き"]
 draft = false
 +++

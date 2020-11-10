@@ -1,5 +1,6 @@
 +++
 title = "戸籍謄本を取得して両親のGeburtsurkundeを作る手続き"
+date = 2018-11-12T23:35:00+01:00
 tags = ["japanese", "ja", "ドイツで日本人同士の両親から子供が生まれた場合の諸手続き"]
 draft = false
 +++
