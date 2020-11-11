@@ -42,3 +42,7 @@
    document.querySelector(`[id='おむつ交換台']`)
    <h3 id="おむつ交換台">
    #+end_example
+** how to add cover image
+   [[https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#post-cover-image][hugo-PaperMod support it]] by adding "cover" field in markdown file.
+   ox-hugo support to add this kind of front-matter field.
+   You can see [[https://github.com/kaushalmodi/ox-hugo/blob/master/test/site/content-org/all-posts.org#custom-front-matter-in-multiple-lines][the sample org source]] and [[https://raw.githubusercontent.com/kaushalmodi/ox-hugo/master/test/site/content/posts/custom-front-matter-multiple-lines.md][the output markdown file.]]
